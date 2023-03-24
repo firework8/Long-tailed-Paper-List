@@ -78,6 +78,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Deep representation learning on long-tailed data: A learnable embedding augmentation perspective [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Deep_Representation_Learning_on_Long-Tailed_Data_A_Learnable_Embedding_Augmentation_CVPR_2020_paper.pdf)] [[unofficial](https://github.com/stxupengyu/CVPR-2020-LEAP)]
 - Domain balancing: Face recognition on long-tailed domains [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_Domain_Balancing_Face_Recognition_on_Long-Tailed_Domains_CVPR_2020_paper.pdf)]
 - Inflated episodic memory with region self-attention for long-tailed visual recognition [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Inflated_Episodic_Memory_With_Region_Self-Attention_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf)]
+- Large-scale object detection in the wild from imbalanced multi-labels [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_Large-Scale_Object_Detection_in_the_Wild_From_Imbalanced_Multi-Labels_CVPR_2020_paper.pdf)]
 
 **ECCV** 
 - The devil is in classification: A simple framework for long-tail instance segmentation [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590715.pdf)] [[code](https://github.com/twangnh/SimCal)]
