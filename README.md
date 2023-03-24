@@ -201,7 +201,9 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Towards Calibrated Hyper-Sphere Representation via Distribution Overlap Coefficient for Long-tailed Learning [[paper](https://arxiv.org/pdf/2208.10043.pdf)] [[code](https://github.com/SiLangWHL/vMF-OP)]
 - VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition [[paper](https://arxiv.org/pdf/2111.13579.pdf)] [[code](https://github.com/ChangyaoTian/VL-LTR)]
 - PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation [[paper](https://arxiv.org/pdf/2208.07755.pdf)] [[code](https://github.com/wtjiang98/PoseTrans)]
+- Long-tail Detection with Effective Class-Margins [[paper](https://arxiv.org/pdf/2301.09724.pdf)] [[code](https://github.com/janghyuncho/ECM-Loss)]
 - Learning with Free Object Segments for Long-Tailed Instance Segmentation [[paper](https://arxiv.org/pdf/2202.11124.pdf)]
+- Improving the Intra-class Long-tail in 3D Detection via Rare Example Mining [[paper](https://arxiv.org/pdf/2210.08375.pdf)]
 
 
 **ICML** 
@@ -228,6 +230,9 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Imagine by Reasoning: A Reasoning-Based Implicit Semantic Data Augmentation for Long-Tailed Classification [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/19912)] [[code](https://github.com/xiaohua-chen/RISDA)]
 - Memory-Based Jitter: Improving Visual Recognition on Long-Tailed Data with Diversity in Memory [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20064)]
 
+**ACM MM**
+- Compound Batch Normalization for Long-tailed Image Classification [[paper](https://arxiv.org/pdf/2212.01007.pdf)]
+
 **IJCAI** 
 - Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features [[paper](https://arxiv.org/pdf/2204.13399.pdf)] [[code](https://github.com/shangxinyi/CReFF-FL)]
 
@@ -248,6 +253,13 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Joint Debiased Representation and Image Clustering Learning with Self-Supervision [[paper](https://arxiv.org/abs/2209.06941)] [[code](https://anonymous.4open.science/r/SSL-debiased-clustering)]
 - Generalized Parametric Contrastive Learning [[paper](https://arxiv.org/abs/2209.12400)] [[code](https://github.com/dvlab-research/Parametric-Contrastive-Learning)]
 - Class-Aware Universum Inspired Re-Balance Learning for Long-Tailed Recognition [[paper](https://arxiv.org/abs/2207.12808)] [[code](https://github.com/Zeh0814/CaUIRL)]
+- The Equalization Losses: Gradient-Driven Training for Long-tailed Object Recognition [[paper](https://arxiv.org/abs/2210.05566)] [[code](https://github.com/ModelTC/United-Perception)]
+- Improving Long-tailed Object Detection with Image-Level Supervision by Multi-Task Collaborative Learning [[paper](https://arxiv.org/abs/2210.05568)] [[code](https://github.com/waveboo/CLIS)]
+- A Benchmark of Long-tailed Instance Segmentation with Noisy Labels [[paper](https://arxiv.org/abs/2211.13435)] [[code](https://github.com/GuanlinLee/Noisy-LVIS)]
+- Class Adaptive Network Calibration [[paper](https://arxiv.org/abs/2211.15088)] [[code](https://github.com/by-liu/CALS)]
+- VLG: General Video Recognition with Web Textual Knowledge [[paper](https://arxiv.org/abs/2212.01638)] [[code](https://github.com/MCG-NJU/VLG)]
+
+
 
 - GradTail: Learning Long-Tailed Data Using Gradient-based Sample Weighting [[paper](https://arxiv.org/abs/2201.05938)]
 - Balancing Domain Experts for Long-Tailed Camera-Trap Recognition [[paper](https://arxiv.org/abs/2202.07215)]
@@ -270,10 +282,53 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Combating Noisy Labels in Long-Tailed Image Classification [[paper](https://arxiv.org/abs/2209.00273)]
 - Data Augmentation by Selecting Mixed Classes Considering Distance Between Classes [[paper](https://arxiv.org/abs/2209.05122)]
 - IMB-NAS: Neural Architecture Search for Imbalanced Datasets [[paper](https://arxiv.org/abs/2210.00136)]
+- Multi-Domain Long-Tailed Learning by Augmenting Disentangled Representations [[paper](https://arxiv.org/abs/2210.14358)]
+- Long-tailed Food Classification [[paper](https://arxiv.org/abs/2210.14748)]
+- Large Language Models Struggle to Learn Long-Tail Knowledge [[paper](https://arxiv.org/abs/2211.08411)]
+- Pairwise Instance Relation Augmentation for Long-tailed Multi-label Text Classification [[paper](https://arxiv.org/abs/2211.10685)]
+- Learning from Long-Tailed Noisy Data with Sample Selection and Balanced Loss [[paper](https://arxiv.org/abs/2211.10906)]
+- Learning with Noisily-labeled Class-imbalanced Data [[paper](https://arxiv.org/abs/2211.10955)]
+- Supervised Contrastive Learning on Blended Images for Long-tailed Recognition [[paper](https://arxiv.org/abs/2211.11938)]
+- Dynamic Loss For Robust Learning [[paper](https://arxiv.org/abs/2211.12506)]
+- Understanding the Impact of Adversarial Robustness on Accuracy Disparity [[paper](https://arxiv.org/abs/2211.15762)]
+- Leveraging Angular Information Between Feature and Classifier for Long-tailed Learning: A Prediction Reformulation Approach [[paper](https://arxiv.org/abs/2212.01565)]
 
 
 ### 2023
 
+**CVPR** 
+- Learning Imbalanced Data with Vision Transformers [[paper](https://arxiv.org/pdf/2212.02015.pdf)] [[code](https://github.com/XuZhengzhuo/LiVT)]
+- DiGeo: Discriminative Geometry-Aware Learning for Generalized Few-Shot Object Detection [[paper](https://arxiv.org/pdf/2303.09674.pdf)] [[code](https://github.com/Phoenix-V/DiGeo)]
+- Probabilistic Debiasing of Scene Graphs [[paper](https://arxiv.org/pdf/2211.06444.pdf)] [[code](https://github.com/bashirulazam/within-triplet-debias)]
+- Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification [[paper](https://arxiv.org/pdf/2303.12307.pdf)]
+
+
 **ICLR** 
 - LPT: Long-tailed Prompt Tuning for Image Classification [[paper](https://arxiv.org/pdf/2210.01033.pdf)] [[code](https://github.com/DongSky/LPT)]
+- Long-Tailed Partial Label Learning via Dynamic Rebalancing [[paper](https://arxiv.org/pdf/2302.05080.pdf)] [[code](https://github.com/MediaBrain-SJTU/RECORDS-LTPLL)]
+- Delving into Semantic Scale Imbalance [[paper](https://arxiv.org/pdf/2212.14613.pdf)]
+- CUDA: Curriculum of Data Augmentation for Long-Tailed Recognition [[paper](https://arxiv.org/pdf/2302.05499.pdf)] [[code](https://github.com/sumyeongahn/CUDA_LTR)]
+- InPL: Pseudo-labeling the Inliers First for Imbalanced Semi-supervised Learning [[paper](https://arxiv.org/pdf/2303.07269.pdf)]
+- Pushing the Accuracy-Group Robustness Frontier with Introspective Self-play [[paper](https://arxiv.org/pdf/2302.05807.pdf)]
 
+**AAAI** 
+- Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition [[paper](https://arxiv.org/pdf/2211.13471.pdf)] [[code](https://github.com/wjun0830/MOVE)]
+- Long-tail Cross Modal Hashing [[paper](https://arxiv.org/pdf/2211.15162.pdf)]
+
+
+**arXiv papers**
+- Integrating Local Real Data with Global Gradient Prototypes for Classifier Re-Balancing in Federated Long-Tailed Learning [[paper](https://arxiv.org/abs/2301.10394)]
+- Revisiting Long-tailed Image Classification: Survey and Benchmarks with New Evaluation Metrics [[paper](https://arxiv.org/abs/2302.01507)]
+- Learning Prototype Classifiers for Long-Tailed Recognition [[paper](https://arxiv.org/abs/2302.00491)]
+- Delving Deep into Simplicity Bias for Long-Tailed Image Recognition [[paper](https://arxiv.org/abs/2302.03264)]
+- SCLIFD:Supervised Contrastive Knowledge Distillation for Incremental Fault Diagnosis under Limited Fault Data [[paper](https://arxiv.org/abs/2302.05929)]
+- Mutual Exclusive Modulator for Long-Tailed Recognition [[paper](https://arxiv.org/abs/2302.09498)]
+- No One Left Behind: Improving the Worst Categories in Long-Tailed Learning [[paper](https://arxiv.org/abs/2303.03630)]
+- Pseudo Labels Regularization for Imbalanced Partial-Label Learning [[paper](https://arxiv.org/abs/2303.03946)]
+- Long-tailed Classification from a Bayesian-decision-theory Perspective [[paper](https://arxiv.org/abs/2303.06075)]
+- Fairness Improves Learning from Noisily Labeled Long-Tailed Data [[paper](https://arxiv.org/abs/2303.12291)]
+
+
+
+[[paper]()] [[code]()]
+[[paper]()]
