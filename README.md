@@ -261,7 +261,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 **AAAI**
 - Bag of tricks for long-tailed visual recognition with deep convolutional neural networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16458)] [[code](https://github.com/zhangyongshun/BagofTricks-LT)]
 - Droploss for long-tail instance segmentation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16246)] [[code](https://github.com/timy90022/DropLoss)]
-- Does head label help for long-tailed multi-label text classification [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17660)]
+- Does head label help for long-tailed multi-label text classification [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17660)] [[code](https://github.com/xiaolin1207/HTTN-master)]
 
 **ACM MM**
 - Long-tailed distribution adaptation [[paper](https://arxiv.org/pdf/2110.02686.pdf)] [[code](https://github.com/pengzhiliang/LDA)]
@@ -284,7 +284,6 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Equalization loss for long-tailed object recognition [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tan_Equalization_Loss_for_Long-Tailed_Object_Recognition_CVPR_2020_paper.pdf)] [[code](https://github.com/tztztztztz/eqlv2)]
 - M2m: Imbalanced classification via majorto-minor translation [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_M2m_Imbalanced_Classification_via_Major-to-Minor_Translation_CVPR_2020_paper.pdf)] [[code](https://github.com/alinlab/M2m)]
 - Deep generative model for robust imbalance classification [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Generative_Model_for_Robust_Imbalance_Classification_CVPR_2020_paper.pdf)] [[code](https://github.com/lvyilin/DGC)]
-- Blt: Balancing long-tailed datasets with adversarially-perturbed images [[paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Kozerawski_BLT_Balancing_Long-Tailed_Datasets_with_Adversarially-Perturbed_Images_ACCV_2020_paper.pdf)] [[code](https://github.com/JKozerawski/BLT)]
 - Deep representation learning on long-tailed data: A learnable embedding augmentation perspective [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Deep_Representation_Learning_on_Long-Tailed_Data_A_Learnable_Embedding_Augmentation_CVPR_2020_paper.pdf)] [[unofficial](https://github.com/stxupengyu/CVPR-2020-LEAP)]
 - Domain balancing: Face recognition on long-tailed domains [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_Domain_Balancing_Face_Recognition_on_Long-Tailed_Domains_CVPR_2020_paper.pdf)]
 - Inflated episodic memory with region self-attention for long-tailed visual recognition [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Inflated_Episodic_Memory_With_Region_Self-Attention_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf)]
