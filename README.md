@@ -21,11 +21,13 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Learning deep representation for imbalanced classification [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Huang_Learning_Deep_Representation_CVPR_2016_paper.pdf)]
 - Factors in finetuning deep model for object detection with long-tail distribution [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Ouyang_Factors_in_Finetuning_CVPR_2016_paper.pdf)]
 
+**ECCV**
+- Learning to learn: Model regression networks for easy small sample learning [[paper](https://www.ri.cmu.edu/pub_files/2016/10/yuxiongw_eccv16_learntolearn.pdf)]
 
 ### 2017
 
 **ICCV**
-- Focal loss for dense object detection [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)] [[unofficial](https://github.com/unsky/focal-loss)]
+- Focal loss for dense object detection [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)] [[code](https://github.com/facebookresearch/detectron2)]
 - Range loss for deep face recognition with long-tailed training data [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Range_Loss_for_ICCV_2017_paper.pdf)] [[unofficial](https://github.com/Chen94yue/RangeLoss-Pytorch-ReID)]
 - Class rectification hard mining for imbalanced deep learning [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Dong_Class_Rectification_Hard_ICCV_2017_paper.pdf)]
 
@@ -37,6 +39,9 @@ We collect existing papers on long-tailed learning published in prominent confer
 
 **CVPR** 
 - Large scale fine-grained categorization and domain-specific transfer learning [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Cui_Large_Scale_Fine-Grained_CVPR_2018_paper.pdf)] [[code](https://github.com/richardaecn/cvpr18-inaturalist-transfer)]
+
+**ICML** 
+- Learning to reweight examples for robust deep learning [[paper](http://proceedings.mlr.press/v80/ren18a/ren18a.pdf)] [[code](https://github.com/uber-research/learning-to-reweight-examples)]
 
 
 ### 2019
@@ -56,6 +61,9 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Learning imbalanced datasets with label-distribution-aware margin loss [[paper](https://proceedings.neurips.cc/paper/2019/file/621461af90cadfdaf0e8d4cc25129f91-Paper.pdf)] [[code](https://github.com/kaidic/LDAM-DRW)]
 - Meta-weight-net: Learning an explicit mapping for sample weighting [[paper](https://proceedings.neurips.cc/paper/2019/file/e58cc5ca94270acaceed13bc82dfedf7-Paper.pdf)] [[code](https://github.com/xjtushujun/meta-weight-net)]
 
+**IJCAI**
+- Learning for Tail Label Data: A Label-Specific Feature Approach [[paper](http://www.lamda.nju.edu.cn/weit/files/ijcai19-tail.pdf)]
+
 
 ### 2020
 
@@ -66,6 +74,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Rethinking class-balanced methods for long-tailed visual recognition from a domain adaptation perspective [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jamal_Rethinking_Class-Balanced_Methods_for_Long-Tailed_Visual_Recognition_From_a_Domain_CVPR_2020_paper.pdf)] [[code](https://github.com/abdullahjamal/Longtail_DA)]
 - Equalization loss for long-tailed object recognition [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tan_Equalization_Loss_for_Long-Tailed_Object_Recognition_CVPR_2020_paper.pdf)] [[code](https://github.com/tztztztztz/eqlv2)]
 - M2m: Imbalanced classification via majorto-minor translation [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_M2m_Imbalanced_Classification_via_Major-to-Minor_Translation_CVPR_2020_paper.pdf)] [[code](https://github.com/alinlab/M2m)]
+- Deep generative model for robust imbalance classification [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Generative_Model_for_Robust_Imbalance_Classification_CVPR_2020_paper.pdf)] [[code](https://github.com/lvyilin/DGC)]
 - Deep representation learning on long-tailed data: A learnable embedding augmentation perspective [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Deep_Representation_Learning_on_Long-Tailed_Data_A_Learnable_Embedding_Augmentation_CVPR_2020_paper.pdf)] [[unofficial](https://github.com/stxupengyu/CVPR-2020-LEAP)]
 - Domain balancing: Face recognition on long-tailed domains [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_Domain_Balancing_Face_Recognition_on_Long-Tailed_Domains_CVPR_2020_paper.pdf)]
 - Inflated episodic memory with region self-attention for long-tailed visual recognition [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Inflated_Episodic_Memory_With_Region_Self-Attention_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf)]
@@ -89,6 +98,9 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Rethinking the value of labels for improving class-imbalanced learning [[paper](https://proceedings.neurips.cc/paper/2020/file/e025b6279c1b88d3ec0eca6fcb6e6280-Paper.pdf)] [[code](https://github.com/YyzHarry/imbalanced-semi-self)]
 - Posterior recalibration for imbalanced datasets [[paper](https://proceedings.neurips.cc/paper/2020/file/5ca359ab1e9e3b9c478459944a2d9ca5-Paper.pdf)] [[code](https://github.com/GT-RIPL/UNO-IC)]
 - Distribution aligning refinery of pseudo-label for imbalanced semi-supervised learning [[paper](https://proceedings.neurips.cc/paper/2020/file/a7968b4339a1b85b7dbdb362dc44f9c4-Paper.pdf)] [[code](https://github.com/bbuing9/DARP)]
+
+**ACM MM**
+- Forest r-cnn: Large-vocabulary long-tailed object detection and instance segmentation [[paper](https://arxiv.org/pdf/2008.05676.pdf)] [[code](https://github.com/JialianW/Forest_RCNN)]
 
 ### 2021
 
@@ -310,6 +322,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - CUDA: Curriculum of Data Augmentation for Long-Tailed Recognition [[paper](https://arxiv.org/pdf/2302.05499.pdf)] [[code](https://github.com/sumyeongahn/CUDA_LTR)]
 - InPL: Pseudo-labeling the Inliers First for Imbalanced Semi-supervised Learning [[paper](https://arxiv.org/pdf/2303.07269.pdf)]
 - Pushing the Accuracy-Group Robustness Frontier with Introspective Self-play [[paper](https://arxiv.org/pdf/2302.05807.pdf)]
+- Imbalanced Semi-supervised Learning with Bias Adaptive Classifier [[paper](https://openreview.net/pdf?id=rVM8wD2G7Dy)]
 
 **AAAI** 
 - Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition [[paper](https://arxiv.org/pdf/2211.13471.pdf)] [[code](https://github.com/wjun0830/MOVE)]
