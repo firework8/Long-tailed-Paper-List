@@ -120,6 +120,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Dynamic class queue for large scale face recognition in the wild [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Dynamic_Class_Queue_for_Large_Scale_Face_Recognition_in_the_CVPR_2021_paper.pdf)] [[code](https://github.com/bilylee/DCQ)]
 - Detecting human-object interaction via fabricated compositional learning [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Detecting_Human-Object_Interaction_via_Fabricated_Compositional_Learning_CVPR_2021_paper.pdf)] [[code](https://github.com/zhihou7/HOI-CL)]
 - PML: Progressive margin loss for long-tailed age classification [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_PML_Progressive_Margin_Loss_for_Long-Tailed_Age_Classification_CVPR_2021_paper.pdf)] [[code](https://github.com/SanyeungWang/PML)]
+- T-vMF similarity for regularizing intra-class feature distribution [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Kobayashi_T-vMF_Similarity_for_Regularizing_Intra-Class_Feature_Distribution_CVPR_2021_paper.pdf)] [[code](https://github.com/tk1980/tvMF)]
 - Long-tailed multi-label visual recognition by collaborative training on uniform and re-balanced samplings [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Long-Tailed_Multi-Label_Visual_Recognition_by_Collaborative_Training_on_Uniform_and_CVPR_2021_paper.pdf)] [[unofficial](https://github.com/bargul/guo2021)]
 - Plm: Partial label masking for imbalanced multi-label classification [[paper](https://openaccess.thecvf.com/content/CVPR2021W/LLID/papers/Duarte_PLM_Partial_Label_Masking_for_Imbalanced_Multi-Label_Classification_CVPRW_2021_paper.pdf)]
 - Contrastive learning based hybrid networks for long-tailed image classification [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Contrastive_Learning_Based_Hybrid_Networks_for_Long-Tailed_Image_Classification_CVPR_2021_paper.pdf)]
@@ -140,6 +141,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - GistNet: a geometric structure transfer network for long-tailed recognition [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_GistNet_A_Geometric_Structure_Transfer_Network_for_Long-Tailed_Recognition_ICCV_2021_paper.pdf)]
 - Distilling virtual examples for long-tailed recognition [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_Distilling_Virtual_Examples_for_Long-Tailed_Recognition_ICCV_2021_paper.pdf)]
 - Learning of visual relations: The devil is in the tails [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Desai_Learning_of_Visual_Relations_The_Devil_Is_in_the_Tails_ICCV_2021_paper.pdf)]
+- Procrustean Training for Imbalanced Deep Learning [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ye_Procrustean_Training_for_Imbalanced_Deep_Learning_ICCV_2021_paper.pdf)]
 
 **ICLR** 
 - Long-tail learning via logit adjustment [[paper](https://openreview.net/pdf?id=37nvvqkCo5)] [[code](https://github.com/google-research/google-research/tree/master/logit_adjustment)]
@@ -160,10 +162,14 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Towards calibrated model for long-tailed visual recognition from prior perspective [[paper](https://papers.nips.cc/paper/2021/file/39ae2ed11b14a4ccb41d35e9d1ba5d11-Paper.pdf)] [[code](https://github.com/XuZhengzhuo/Prior-LT)]
 - Supercharging imbalanced data learning with energy-based contrastive representation transfer [[paper](https://papers.nips.cc/paper/2021/file/b151ce4935a3c2807e1dd9963eda16d8-Paper.pdf)] [[code](https://github.com/ZidiXiu/ECRT)]
 - Label-imbalanced and group-sensitive classification under overparameterization [[paper](https://proceedings.neurips.cc/paper/2021/file/9dfcf16f0adbc5e2a55ef02db36bac7f-Paper.pdf)] [[code](https://github.com/orparask/VS-Loss)]
+- On model calibration for long-tailed object detection and instance segmentation [[paper](https://proceedings.neurips.cc/paper/2021/file/14ad095ecc1c3e1b87f3c522836e9158-Paper.pdf)] [[code](https://github.com/tydpan/NorCal)]
+- Abc: Auxiliary balanced classifier for class-imbalanced semi-supervised learning [[paper](https://proceedings.neurips.cc/paper/2021/file/3953630da28e5181cffca1278517e3cf-Paper.pdf)] [[code](https://github.com/LeeHyuck/ABC)]
 
 **AAAI**
 - Bag of tricks for long-tailed visual recognition with deep convolutional neural networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16458)] [[code](https://github.com/zhangyongshun/BagofTricks-LT)]
+- Droploss for long-tail instance segmentation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16246)] [[code](https://github.com/timy90022/DropLoss)]
 - Does head label help for long-tailed multi-label text classification [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17660)]
+
 
 **ACM MM**
 - Long-tailed distribution adaptation [[paper](https://arxiv.org/pdf/2110.02686.pdf)] [[code](https://github.com/pengzhiliang/LDA)]
@@ -209,14 +215,16 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Invariant Feature Learning for Generalized Long-Tailed Classification [[paper](https://arxiv.org/pdf/2207.09504.pdf)] [[code](https://github.com/KaihuaTang/Generalized-Long-Tailed-Benchmarks.pytorch)]
 - Long-Tailed Class Incremental Learning [[paper](https://arxiv.org/pdf/2210.00266.pdf)] [[code](https://github.com/xialeiliu/Long-Tailed-CIL)]
 - Long-tailed Instance Segmentation using Gumbel Optimized Loss [[paper](https://arxiv.org/pdf/2207.10936.pdf)] [[code](https://github.com/kostas1515/GOL)]
-- On Multi-Domain Long-Tailed Recognition, Generalization and Beyond [[paper](https://arxiv.org/pdf/2203.09513.pdf)] [[code](https://github.com/YyzHarry/multi-domain-imbalance)]
+- On Multi-Domain Long-Tailed Recognition, Imbalanced Domain Generalization and Beyond [[paper](https://arxiv.org/pdf/2203.09513.pdf)] [[code](https://github.com/YyzHarry/multi-domain-imbalance)]
 - Tackling Long-Tailed Category Distribution Under Domain Shifts [[paper](https://arxiv.org/pdf/2207.10150.pdf)] [[code](https://xiaogu.site/LTDS/)]
 - Towards Calibrated Hyper-Sphere Representation via Distribution Overlap Coefficient for Long-tailed Learning [[paper](https://arxiv.org/pdf/2208.10043.pdf)] [[code](https://github.com/SiLangWHL/vMF-OP)]
 - VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition [[paper](https://arxiv.org/pdf/2111.13579.pdf)] [[code](https://github.com/ChangyaoTian/VL-LTR)]
 - PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation [[paper](https://arxiv.org/pdf/2208.07755.pdf)] [[code](https://github.com/wtjiang98/PoseTrans)]
 - Long-tail Detection with Effective Class-Margins [[paper](https://arxiv.org/pdf/2301.09724.pdf)] [[code](https://github.com/janghyuncho/ECM-Loss)]
+- Breadcrumbs: Adversarial Class-Balanced Sampling for Long-tailed Recognition [[paper](https://arxiv.org/pdf/2105.00127.pdf)] [[code](https://github.com/BoLiu-SVCL/Breadcrumbs)]
 - Learning with Free Object Segments for Long-Tailed Instance Segmentation [[paper](https://arxiv.org/pdf/2202.11124.pdf)]
 - Improving the Intra-class Long-tail in 3D Detection via Rare Example Mining [[paper](https://arxiv.org/pdf/2210.08375.pdf)]
+- SAFA: Sample-Adaptive Feature Augmentation for Long-Tailed Image Classification [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840578.pdf)]
 
 
 **ICML** 
@@ -237,6 +245,8 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition [[paper](https://arxiv.org/pdf/2107.09249.pdf)] [[code](https://github.com/Vanint/SADE-AgnosticLT)]
 - SoLar: Sinkhorn Label Refinery for Imbalanced Partial-Label Learning [[paper](https://arxiv.org/pdf/2209.10365.pdf)] [[code](https://github.com/hbzju/SoLar)]
 - Do We Really Need a Learnable Classifier at the End of Deep Neural Network? [[paper](https://arxiv.org/pdf/2203.09081.pdf)] [[code](https://github.com/NeuralCollapseApplications/ImbalancedLearning)]
+- Learning to Re-weight Examples with Optimal Transport for Imbalanced Classification [[paper](https://arxiv.org/abs/2208.02951)] [[code](https://github.com/DandanGuo1993/reweight-imbalance-classification-with-OT)]
+- Escaping Saddle Points for Effective Generalization on Class-Imbalanced Data [[paper](https://arxiv.org/pdf/2212.13827.pdf)] [[code](https://github.com/val-iisc/Saddle-LongTail)]
 
 **AAAI** 
 - Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20271)] [[code](https://github.com/BeierZhu/xERM)]
@@ -288,7 +298,6 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Balanced Product of Experts for Long-Tailed Recognition [[paper](https://arxiv.org/abs/2206.05260)]
 - DBN-Mix: Training Dual Branch Network Using Bilateral Mixup Augmentation for Long-Tailed Visual Recognition [[paper](https://arxiv.org/abs/2207.02173)]
 - Two-Stage Fine-Tuning: A Novel Strategy for Learning ClassImbalanced Data [[paper](https://arxiv.org/abs/2207.10858)]
-- Learning to Re-weight Examples with Optimal Transport for Imbalanced Classification [[paper](https://arxiv.org/abs/2208.02951)]
 - Teacher Guided Training: An Efficient Framework for Knowledge Transfer [[paper](https://arxiv.org/abs/2208.06825)]
 - Combating Noisy-Labeled and Imbalanced Data by Two Stage Bi-Dimensional Sample Selection [[paper](https://arxiv.org/abs/2208.09833)]
 - Enhancement Encoding: A New Imbalanced Classification Approach via Encoding the Labels [[paper](https://arxiv.org/abs/2208.11056)]
