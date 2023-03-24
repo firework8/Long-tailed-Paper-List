@@ -50,6 +50,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Class-balanced loss based on effective number of samples [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cui_Class-Balanced_Loss_Based_on_Effective_Number_of_Samples_CVPR_2019_paper.pdf)] [[code](https://github.com/richardaecn/class-balanced-loss)]
 - Large-scale long-tailed recognition in an open world [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Large-Scale_Long-Tailed_Recognition_in_an_Open_World_CVPR_2019_paper.pdf)] [[code](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)]
 - Unequal-training for deep face recognition with long-tailed noisy data [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Unequal-Training_for_Deep_Face_Recognition_With_Long-Tailed_Noisy_Data_CVPR_2019_paper.pdf)] [[code](https://github.com/zhongyy/Unequal-Training-for-Deep-Face-Recognition-with-Long-Tailed-Noisy-Data)]
+- Libra r-cnn: Towards balanced learning for object detection [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pang_Libra_R-CNN_Towards_Balanced_Learning_for_Object_Detection_CVPR_2019_paper.pdf)] [[code](https://github.com/OceanPang/Libra_R-CNN)]
 - Feature transfer learning for face recognition with under-represented data [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Feature_Transfer_Learning_for_Face_Recognition_With_Under-Represented_Data_CVPR_2019_paper.pdf)] [[unofficial](https://github.com/PLLin/FTL_net)]
 - Striking the right balance with uncertainty [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Khan_Striking_the_Right_Balance_With_Uncertainty_CVPR_2019_paper.pdf)]
 
@@ -87,7 +88,6 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Learning from multiple experts: Self-paced knowledge distillation for long-tailed classification [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500239.pdf)] [[code](https://github.com/xiangly55/LFME)]
 - Solving long-tailed recognition with deep realistic taxonomic classifier [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530171.pdf)] [[code](https://github.com/gina9726/Deep-RTC)]
 - Feature space augmentation for long-tailed data [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740681.pdf)] [[unofficial](https://github.com/SSRSGJYD/Feature-Space-Augmentation-for-Long-Tailed-Data)]
-- Remix: rebalanced mixup [[paper](https://arxiv.org/pdf/2007.03943.pdf)]
 
 
 **ICLR** 
@@ -164,6 +164,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Label-imbalanced and group-sensitive classification under overparameterization [[paper](https://proceedings.neurips.cc/paper/2021/file/9dfcf16f0adbc5e2a55ef02db36bac7f-Paper.pdf)] [[code](https://github.com/orparask/VS-Loss)]
 - On model calibration for long-tailed object detection and instance segmentation [[paper](https://proceedings.neurips.cc/paper/2021/file/14ad095ecc1c3e1b87f3c522836e9158-Paper.pdf)] [[code](https://github.com/tydpan/NorCal)]
 - Abc: Auxiliary balanced classifier for class-imbalanced semi-supervised learning [[paper](https://proceedings.neurips.cc/paper/2021/file/3953630da28e5181cffca1278517e3cf-Paper.pdf)] [[code](https://github.com/LeeHyuck/ABC)]
+- Topology-imbalance learning for semi-supervised node classification [[paper](https://proceedings.neurips.cc/paper/2021/file/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Paper.pdf)] [[code](https://github.com/victorchen96/ReNode)]
 
 **AAAI**
 - Bag of tricks for long-tailed visual recognition with deep convolutional neural networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16458)] [[code](https://github.com/zhangyongshun/BagofTricks-LT)]
@@ -262,6 +263,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 **TPAMI** 
 - Open Long-Tailed Recognition In A Dynamic World [[paper](https://arxiv.org/pdf/2208.08349.pdf)] [[code](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)]
 - Key Point Sensitive Loss for Long-tailed Visual Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9848833)] [[code](https://github.com/Keke921/KPSLoss)]
+- Reslt: Residual learning for long-tailed recognition [[paper](https://arxiv.org/pdf/2101.10633.pdf)] [[code](https://github.com/jiequancui/ResLT)]
 
 **IJCV** 
 - Class-Difficulty Based Methods for Long-Tailed Visual Recognition [[paper](https://link.springer.com/article/10.1007/s11263-022-01643-3)]
