@@ -21,13 +21,18 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Learning Imbalanced Data with Vision Transformers [[paper](https://arxiv.org/pdf/2212.02015.pdf)] [[code](https://github.com/XuZhengzhuo/LiVT)]
 - DiGeo: Discriminative Geometry-Aware Learning for Generalized Few-Shot Object Detection [[paper](https://arxiv.org/pdf/2303.09674.pdf)] [[code](https://github.com/Phoenix-V/DiGeo)]
 - Probabilistic Debiasing of Scene Graphs [[paper](https://arxiv.org/pdf/2211.06444.pdf)] [[code](https://github.com/bashirulazam/within-triplet-debias)]
+- Global and Local Mixture Consistency Cumulative Learning for Long-tailed Visual Recognitions [[paper](https://www.researchgate.net/profile/Yun-Yang-33/publication/368956093_Global_and_Local_Mixture_Consistency_Cumulative_Learning_for_Long-tailed_Visual_Recognitions/links/640190d10d98a97717d32903/Global-and-Local-Mixture-Consistency-Cumulative-Learning-for-Long-tailed-Visual-Recognitions.pdf)] [[code](https://github.com/ynu-yangpeng/GLMC)]
+- FCC: Feature Clusters Compression for Long-Tailed Visual Recognition [[code](https://github.com/lijian16/FCC)]
 - Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification [[paper](https://arxiv.org/pdf/2303.12307.pdf)]
 
 **ICLR** 
 - LPT: Long-tailed Prompt Tuning for Image Classification [[paper](https://arxiv.org/pdf/2210.01033.pdf)] [[code](https://github.com/DongSky/LPT)]
 - Long-Tailed Partial Label Learning via Dynamic Rebalancing [[paper](https://arxiv.org/pdf/2302.05080.pdf)] [[code](https://github.com/MediaBrain-SJTU/RECORDS-LTPLL)]
-- Delving into Semantic Scale Imbalance [[paper](https://arxiv.org/pdf/2212.14613.pdf)]
 - CUDA: Curriculum of Data Augmentation for Long-Tailed Recognition [[paper](https://arxiv.org/pdf/2302.05499.pdf)] [[code](https://github.com/sumyeongahn/CUDA_LTR)]
+- Long-Tailed Learning Requires Feature Learning [[paper](https://openreview.net/pdf?id=S-h1oFv-mq)] [[code](https://github.com/xbresson/Long_Tailed_Learning_Requires_Feature_Learning)]
+- On the Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning [[paper](https://openreview.net/pdf?id=v8JIQdiN9Sh)] [[code](https://github.com/JianhongBai/COLT)]
+- Temperature Schedules for self-supervised contrastive methods on long-tail data [[code](https://github.com/Annusha/temperature_schedules)]
+- Delving into Semantic Scale Imbalance [[paper](https://arxiv.org/pdf/2212.14613.pdf)]
 - InPL: Pseudo-labeling the Inliers First for Imbalanced Semi-supervised Learning [[paper](https://arxiv.org/pdf/2303.07269.pdf)]
 - Pushing the Accuracy-Group Robustness Frontier with Introspective Self-play [[paper](https://arxiv.org/pdf/2302.05807.pdf)]
 - Imbalanced Semi-supervised Learning with Bias Adaptive Classifier [[paper](https://openreview.net/pdf?id=rVM8wD2G7Dy)]
@@ -122,10 +127,12 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Memory-Based Jitter: Improving Visual Recognition on Long-Tailed Data with Diversity in Memory [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20064)]
 
 **ACM MM**
+- Balanced Gradient Penalty Improves Deep Long-Tailed Learning [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547763)] [[code](https://github.com/DongWanginxdu/Balanced-Gradient-Penalty-Improve-Deep-Long-Tailed-Learning)]
 - Compound Batch Normalization for Long-tailed Image Classification [[paper](https://arxiv.org/pdf/2212.01007.pdf)]
 
 **IJCAI** 
 - Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features [[paper](https://arxiv.org/pdf/2204.13399.pdf)] [[code](https://github.com/shangxinyi/CReFF-FL)]
+- Attention-guided Contrastive Hashing for Long-tailed Image Retrieval [[paper](https://www.ijcai.org/proceedings/2022/0142.pdf)] [[code](https://github.com/KUXN98/ACHNet)]
 
 **TPAMI** 
 - Open Long-Tailed Recognition In A Dynamic World [[paper](https://arxiv.org/pdf/2208.08349.pdf)] [[code](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)]
@@ -147,6 +154,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Class-Aware Universum Inspired Re-Balance Learning for Long-Tailed Recognition [[paper](https://arxiv.org/abs/2207.12808)] [[code](https://github.com/Zeh0814/CaUIRL)]
 - The Equalization Losses: Gradient-Driven Training for Long-tailed Object Recognition [[paper](https://arxiv.org/abs/2210.05566)] [[code](https://github.com/ModelTC/United-Perception)]
 - Improving Long-tailed Object Detection with Image-Level Supervision by Multi-Task Collaborative Learning [[paper](https://arxiv.org/abs/2210.05568)] [[code](https://github.com/waveboo/CLIS)]
+- Large Language Models Struggle to Learn Long-Tail Knowledge [[paper](https://arxiv.org/abs/2211.08411)] [[code](https://github.com/nkandpa2/long_tail_knowledge)]
 - A Benchmark of Long-tailed Instance Segmentation with Noisy Labels [[paper](https://arxiv.org/abs/2211.13435)] [[code](https://github.com/GuanlinLee/Noisy-LVIS)]
 - Class Adaptive Network Calibration [[paper](https://arxiv.org/abs/2211.15088)] [[code](https://github.com/by-liu/CALS)]
 - VLG: General Video Recognition with Web Textual Knowledge [[paper](https://arxiv.org/abs/2212.01638)] [[code](https://github.com/MCG-NJU/VLG)]
@@ -174,7 +182,6 @@ We collect existing papers on long-tailed learning published in prominent confer
 - IMB-NAS: Neural Architecture Search for Imbalanced Datasets [[paper](https://arxiv.org/abs/2210.00136)]
 - Multi-Domain Long-Tailed Learning by Augmenting Disentangled Representations [[paper](https://arxiv.org/abs/2210.14358)]
 - Long-tailed Food Classification [[paper](https://arxiv.org/abs/2210.14748)]
-- Large Language Models Struggle to Learn Long-Tail Knowledge [[paper](https://arxiv.org/abs/2211.08411)]
 - Pairwise Instance Relation Augmentation for Long-tailed Multi-label Text Classification [[paper](https://arxiv.org/abs/2211.10685)]
 - Learning from Long-Tailed Noisy Data with Sample Selection and Balanced Loss [[paper](https://arxiv.org/abs/2211.10906)]
 - Learning with Noisily-labeled Class-imbalanced Data [[paper](https://arxiv.org/abs/2211.10955)]
@@ -220,6 +227,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Learning fast sample re-weighting without reward data [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learning_Fast_Sample_Re-Weighting_Without_Reward_Data_ICCV_2021_paper.pdf)] [[code](https://github.com/google-research/google-research/tree/master/ieg)]
 - FASA: Feature augmentation and sampling adaptation for long-tailed instance segmentation [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zang_FASA_Feature_Augmentation_and_Sampling_Adaptation_for_Long-Tailed_Instance_Segmentation_ICCV_2021_paper.pdf)] [[code](https://github.com/yuhangzang/FASA)]
 - ACE: Ally complementary experts for solving long-tailed recognition in one-shot [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cai_ACE_Ally_Complementary_Experts_for_Solving_Long-Tailed_Recognition_in_One-Shot_ICCV_2021_paper.pdf)] [[code](https://github.com/winterxx/ACE)]
+- On exposing the challenging long tail in future prediction of traffic actors [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Makansi_On_Exposing_the_Challenging_Long_Tail_in_Future_Prediction_of_ICCV_2021_paper.pdf)] [[code](https://github.com/lmb-freiburg/Contrastive-Future-Trajectory-Prediction)]
 - GistNet: a geometric structure transfer network for long-tailed recognition [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_GistNet_A_Geometric_Structure_Transfer_Network_for_Long-Tailed_Recognition_ICCV_2021_paper.pdf)]
 - Distilling virtual examples for long-tailed recognition [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_Distilling_Virtual_Examples_for_Long-Tailed_Recognition_ICCV_2021_paper.pdf)]
 - Learning of visual relations: The devil is in the tails [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Desai_Learning_of_Visual_Relations_The_Devil_Is_in_the_Tails_ICCV_2021_paper.pdf)]
