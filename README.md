@@ -89,6 +89,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation [[paper](https://arxiv.org/pdf/2208.07755.pdf)] [[code](https://github.com/wtjiang98/PoseTrans)]
 - Long-tail Detection with Effective Class-Margins [[paper](https://arxiv.org/pdf/2301.09724.pdf)] [[code](https://github.com/janghyuncho/ECM-Loss)]
 - Breadcrumbs: Adversarial Class-Balanced Sampling for Long-tailed Recognition [[paper](https://arxiv.org/pdf/2105.00127.pdf)] [[code](https://github.com/BoLiu-SVCL/Breadcrumbs)]
+- Tailoring Self-Supervision for Supervised Learning [[paper](https://arxiv.org/pdf/2207.10023.pdf)] [[code](https://github.com/wjun0830/Localizable-Rotation)]
 - Learning with Free Object Segments for Long-Tailed Instance Segmentation [[paper](https://arxiv.org/pdf/2202.11124.pdf)]
 - Improving the Intra-class Long-tail in 3D Detection via Rare Example Mining [[paper](https://arxiv.org/pdf/2210.08375.pdf)]
 - SAFA: Sample-Adaptive Feature Augmentation for Long-Tailed Image Classification [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840578.pdf)]
