@@ -5,6 +5,8 @@
 
 We collect existing papers on long-tailed learning published in prominent conferences and journals. 
 
+### :high_brightness: Updated 2023-03-26
+
 ## Survey
 
 - Deep long-tailed learning: A survey (**2021 arXiv paper**) [[paper](https://arxiv.org/abs/2110.04596)]
