@@ -106,6 +106,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Pure Noise to the Rescue of Insufficient Data: Improving Imbalanced Classification by Training on Random Noise Images [[paper](https://proceedings.mlr.press/v162/zada22a/zada22a.pdf)] [[code](https://github.com/shiranzada/pure-noise)]
 - Open-Sampling: Exploring Out-of-Distribution Data for Re-balancing Long-tailed Datasets [[paper](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf)] [[code](https://github.com/hongxin001/open-sampling)]
 - TAM: Topology-aware margin loss for class-imbalanced node classification [[paper](https://proceedings.mlr.press/v162/song22a/song22a.pdf)] [[code](https://github.com/Jaeyun-Song/TAM)]
+- Smoothed adaptive weighting for imbalanced semi-supervised learning: Improve reliability against unknown distribution data [[paper](https://proceedings.mlr.press/v162/lai22b/lai22b.pdf)] [[code](https://github.com/ZJUJeffLai/SAW_SSL)]
 - AdAUC: End-to-end Adversarial AUC Optimization Against Long-tail Problems [[paper](https://proceedings.mlr.press/v162/hou22b/hou22b.pdf)]
 
 **ICLR** 
@@ -113,6 +114,8 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Self-supervised learning is more robust to dataset imbalance [[paper](https://openreview.net/pdf?id=4AZz9osqrar)] [[code](https://github.com/Liuhong99/Imbalanced-SSL)]
 - GraphENS: Neighbor-aware ego network synthesis for class-imbalanced node classification [[paper](https://openreview.net/pdf?id=MXEl7i-iru)] [[code](https://github.com/JoonHyung-Park/GraphENS)]
 - Optimal transport for long-tailed recognition with learnable cost matrix [[paper](https://openreview.net/pdf?id=t98k9ePQQpn)]
+- On non-random missing labels in semi-supervised learning [[paper](https://arxiv.org/pdf/2206.14923.pdf)]
+- Sample selection with uncertainty of losses for learning with noisy labels [[paper](https://arxiv.org/pdf/2106.00445.pdf)]
 
 **NeurIPS** 
 - Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition [[paper](https://arxiv.org/pdf/2107.09249.pdf)] [[code](https://github.com/Vanint/SADE-AgnosticLT)]
@@ -237,6 +240,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Long-tail learning via logit adjustment [[paper](https://openreview.net/pdf?id=37nvvqkCo5)] [[code](https://github.com/google-research/google-research/tree/master/logit_adjustment)]
 - Long-tailed recognition by routing diverse distribution-aware experts [[paper](https://openreview.net/pdf?id=D9I3drBz4UC)] [[code](https://github.com/frank-xwang/RIDE-LongTailRecognition)]
 - Heteroskedastic and imbalanced deep learning with adaptive regularization [[paper](https://arxiv.org/pdf/2006.15766.pdf)] [[code](https://github.com/kaidic/HAR)]
+- Is label smoothing truly incompatible with knowledge distillation: An empirical study [[paper](https://arxiv.org/pdf/2104.00676.pdf)] [[code](http://zhiqiangshen.com/projects/LS_and_KD/index.html)]
 - Exploring balanced feature spaces for representation learning [[paper](https://openreview.net/pdf?id=OqtLIabPTit)]
 
 **ICML** 
@@ -372,7 +376,4 @@ We collect existing papers on long-tailed learning published in prominent confer
 
 **ECCV**
 - Learning to learn: Model regression networks for easy small sample learning [[paper](https://www.ri.cmu.edu/pub_files/2016/10/yuxiongw_eccv16_learntolearn.pdf)]
-
-
-
 
