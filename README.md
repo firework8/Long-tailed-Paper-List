@@ -379,3 +379,21 @@ We collect existing papers on long-tailed learning published in prominent confer
 **ECCV**
 - Learning to learn: Model regression networks for easy small sample learning [[paper](https://www.ri.cmu.edu/pub_files/2016/10/yuxiongw_eccv16_learntolearn.pdf)]
 
+
+## Other Resources
+With all the resources available on the github website, this paper list is comprehensive and recently updated.
+
+- [Vanint/Awesome-LongTailed-Learning](https://github.com/Vanint/Awesome-LongTailed-Learning)
+- [GZWQ/Awesome-Long-Tailed](https://github.com/GZWQ/Awesome-Long-Tailed)
+- [zzw-zwzhang/Awesome-of-Long-Tailed-Recognition](https://github.com/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition)
+- [Stomach-ache/awesome-long-tail-learning](https://github.com/Stomach-ache/awesome-long-tail-learning)
+- [xialeiliu/Awesome-LongTailed-Recognition](https://github.com/xialeiliu/Awesome-LongTailed-Recognition)
+- [XuZhengzhuo/Long-tailed-Visual-Recognition-Paper-List](https://github.com/XuZhengzhuo/Long-tailed-Visual-Recognition-Paper-List)
+- [rahulvigneswaran/longtail-buzz](https://rahulvigneswaran.github.io/longtail-buzz/)
+- [mitming/OpenLT](https://github.com/mitming/OpenLT)
+- [ZhiningLiu1998/awesome-imbalanced-learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning)
+- [yanyanSann/Long-Tailed-Classification-Leaderboard](https://github.com/yanyanSann/Long-Tailed-Classification-Leaderboard)
+- [Papers With Code: Long-tailed Learning](https://paperswithcode.com/task/long-tail-learning)
+
+
+## Feel free to contact me if you find any interesting paper is missing.
