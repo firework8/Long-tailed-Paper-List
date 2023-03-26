@@ -1,8 +1,10 @@
-# Awesome Long-Tailed Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# Awesome Long-Tailed Learning   
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 We collect existing papers on long-tailed learning published in prominent conferences and journals. 
 
-### :high_brightness: Updated 2023-03-26
 
 ## Survey
 
@@ -392,5 +394,7 @@ With all the resources available on the github website, this paper list is compr
 - [yanyanSann/Long-Tailed-Classification-Leaderboard](https://github.com/yanyanSann/Long-Tailed-Classification-Leaderboard)
 - [Papers With Code: Long-tailed Learning](https://paperswithcode.com/task/long-tail-learning)
 
+
+## Last update: Mar 26, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
