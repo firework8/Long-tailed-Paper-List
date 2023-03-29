@@ -23,6 +23,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - DiGeo: Discriminative Geometry-Aware Learning for Generalized Few-Shot Object Detection [[paper](https://arxiv.org/pdf/2303.09674.pdf)] [[code](https://github.com/Phoenix-V/DiGeo)]
 - Probabilistic Debiasing of Scene Graphs [[paper](https://arxiv.org/pdf/2211.06444.pdf)] [[code](https://github.com/bashirulazam/within-triplet-debias)]
 - Global and Local Mixture Consistency Cumulative Learning for Long-tailed Visual Recognitions [[paper](https://www.researchgate.net/profile/Yun-Yang-33/publication/368956093_Global_and_Local_Mixture_Consistency_Cumulative_Learning_for_Long-tailed_Visual_Recognitions/links/640190d10d98a97717d32903/Global-and-Local-Mixture-Consistency-Cumulative-Learning-for-Long-tailed-Visual-Recognitions.pdf)] [[code](https://github.com/ynu-yangpeng/GLMC)]
+- VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud [[paper](https://arxiv.org/pdf/2303.14408.pdf)] [[code](https://github.com/wz7in/CVPR2023-VLSAT)]
 - FCC: Feature Clusters Compression for Long-Tailed Visual Recognition [[code](https://github.com/lijian16/FCC)]
 - Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification [[paper](https://arxiv.org/pdf/2303.12307.pdf)]
 
@@ -32,7 +33,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - CUDA: Curriculum of Data Augmentation for Long-Tailed Recognition [[paper](https://arxiv.org/pdf/2302.05499.pdf)] [[code](https://github.com/sumyeongahn/CUDA_LTR)]
 - Long-Tailed Learning Requires Feature Learning [[paper](https://openreview.net/pdf?id=S-h1oFv-mq)] [[code](https://github.com/xbresson/Long_Tailed_Learning_Requires_Feature_Learning)]
 - On the Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning [[paper](https://openreview.net/pdf?id=v8JIQdiN9Sh)] [[code](https://github.com/JianhongBai/COLT)]
-- Temperature Schedules for self-supervised contrastive methods on long-tail data [[code](https://github.com/Annusha/temperature_schedules)]
+- Temperature Schedules for self-supervised contrastive methods on long-tail data [[paper](https://arxiv.org/pdf/2303.13664.pdf)] [[code](https://github.com/Annusha/temperature_schedules)]
 - Delving into Semantic Scale Imbalance [[paper](https://arxiv.org/pdf/2212.14613.pdf)]
 - InPL: Pseudo-labeling the Inliers First for Imbalanced Semi-supervised Learning [[paper](https://arxiv.org/pdf/2303.07269.pdf)]
 - Pushing the Accuracy-Group Robustness Frontier with Introspective Self-play [[paper](https://arxiv.org/pdf/2302.05807.pdf)]
