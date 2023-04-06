@@ -24,8 +24,14 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Probabilistic Debiasing of Scene Graphs [[paper](https://arxiv.org/pdf/2211.06444.pdf)] [[code](https://github.com/bashirulazam/within-triplet-debias)]
 - Global and Local Mixture Consistency Cumulative Learning for Long-tailed Visual Recognitions [[paper](https://www.researchgate.net/profile/Yun-Yang-33/publication/368956093_Global_and_Local_Mixture_Consistency_Cumulative_Learning_for_Long-tailed_Visual_Recognitions/links/640190d10d98a97717d32903/Global-and-Local-Mixture-Consistency-Cumulative-Learning-for-Long-tailed-Visual-Recognitions.pdf)] [[code](https://github.com/ynu-yangpeng/GLMC)]
 - VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud [[paper](https://arxiv.org/pdf/2303.14408.pdf)] [[code](https://github.com/wz7in/CVPR2023-VLSAT)]
+- Use Your Head: Improving Long-Tail Video Recognition [[paper](https://arxiv.org/pdf/2304.01143.pdf)] [[code](https://github.com/tobyperrett/lmr-release)]
+- Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation [[paper](https://arxiv.org/pdf/2304.01279.pdf)] [[code](https://github.com/jinyan-06/SHIKE)]
 - FCC: Feature Clusters Compression for Long-Tailed Visual Recognition [[code](https://github.com/lijian16/FCC)]
 - Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification [[paper](https://arxiv.org/pdf/2303.12307.pdf)]
+- FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-tail Trajectory Prediction [[paper](https://arxiv.org/pdf/2303.16574.pdf)]
+- SuperDisco: Super-Class Discovery Improves Visual Recognition for the Long-Tail [[paper](https://arxiv.org/pdf/2304.00101.pdf)]
+- Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization [[paper](https://arxiv.org/pdf/2304.00212.pdf)]
+
 
 **ICLR** 
 - LPT: Long-tailed Prompt Tuning for Image Classification [[paper](https://arxiv.org/pdf/2210.01033.pdf)] [[code](https://github.com/DongSky/LPT)]
@@ -396,6 +402,6 @@ With all the resources available on the github website, this paper list is compr
 - [Papers With Code: Long-tailed Learning](https://paperswithcode.com/task/long-tail-learning)
 
 
-## Last update: Mar 29, 2023
+## Last update: Apr 6, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
