@@ -26,6 +26,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud [[paper](https://arxiv.org/pdf/2303.14408.pdf)] [[code](https://github.com/wz7in/CVPR2023-VLSAT)]
 - Use Your Head: Improving Long-Tail Video Recognition [[paper](https://arxiv.org/pdf/2304.01143.pdf)] [[code](https://github.com/tobyperrett/lmr-release)]
 - Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation [[paper](https://arxiv.org/pdf/2304.01279.pdf)] [[code](https://github.com/jinyan-06/SHIKE)]
+- Understanding Imbalanced Semantic Segmentation Through Neural Collapse [[paper](https://arxiv.org/pdf/2301.01100.pdf)] [[code](https://github.com/NeuralCollapseApplications/Semantic-Segmentation)]
 - FCC: Feature Clusters Compression for Long-Tailed Visual Recognition [[code](https://github.com/lijian16/FCC)]
 - Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification [[paper](https://arxiv.org/pdf/2303.12307.pdf)]
 - FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-tail Trajectory Prediction [[paper](https://arxiv.org/pdf/2303.16574.pdf)]
@@ -39,7 +40,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need
 - Rethinking Image Super Resolution from Long-Tailed Distribution Learning Perspective
 - Exploring and Utilizing Pattern Imbalance
-- Understanding Imbalanced Semantic Segmentation Through Neural Collapse
+
 - RankMix: Data Augmentation for Weakly Supervised Learning of Classifying Whole Slide Images with Diverse Sizes and Imbalanced Categories
 
 **ICLR** 
