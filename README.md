@@ -31,7 +31,17 @@ We collect existing papers on long-tailed learning published in prominent confer
 - FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-tail Trajectory Prediction [[paper](https://arxiv.org/pdf/2303.16574.pdf)]
 - SuperDisco: Super-Class Discovery Improves Visual Recognition for the Long-Tail [[paper](https://arxiv.org/pdf/2304.00101.pdf)]
 - Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization [[paper](https://arxiv.org/pdf/2304.00212.pdf)]
-
+- No One Left Behind: Improving the Worst Categories in Long-Tailed Learning [[paper](https://arxiv.org/abs/2303.03630)]
+- Class-Conditional Sharpness-Aware Minimization for Deep Long-Tailed Recognition
+- Balancing Logit Variation for Long-tailed Semantic Segmentation
+- Transfer Knowledge from Head to Tail: Uncertainty Calibration under Long-tailed Distribution
+- Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need
+- Rethinking Image Super Resolution from Long-Tailed Distribution Learning Perspective
+- Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation
+- Balanced Product of Calibrated Experts for Long-Tailed Recognition
+- Exploring and Utilizing Pattern Imbalance
+- Understanding Imbalanced Semantic Segmentation Through Neural Collapse
+- RankMix: Data Augmentation for Weakly Supervised Learning of Classifying Whole Slide Images with Diverse Sizes and Imbalanced Categories
 
 **ICLR** 
 - LPT: Long-tailed Prompt Tuning for Image Classification [[paper](https://arxiv.org/pdf/2210.01033.pdf)] [[code](https://github.com/DongSky/LPT)]
@@ -56,7 +66,6 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Delving Deep into Simplicity Bias for Long-Tailed Image Recognition [[paper](https://arxiv.org/abs/2302.03264)]
 - SCLIFD:Supervised Contrastive Knowledge Distillation for Incremental Fault Diagnosis under Limited Fault Data [[paper](https://arxiv.org/abs/2302.05929)]
 - Mutual Exclusive Modulator for Long-Tailed Recognition [[paper](https://arxiv.org/abs/2302.09498)]
-- No One Left Behind: Improving the Worst Categories in Long-Tailed Learning [[paper](https://arxiv.org/abs/2303.03630)]
 - Pseudo Labels Regularization for Imbalanced Partial-Label Learning [[paper](https://arxiv.org/abs/2303.03946)]
 - Long-tailed Classification from a Bayesian-decision-theory Perspective [[paper](https://arxiv.org/abs/2303.06075)]
 - Fairness Improves Learning from Noisily Labeled Long-Tailed Data [[paper](https://arxiv.org/abs/2303.12291)]
@@ -402,6 +411,6 @@ With all the resources available on the github website, this paper list is compr
 - [Papers With Code: Long-tailed Learning](https://paperswithcode.com/task/long-tail-learning)
 
 
-## Last update: Apr 6, 2023
+## Last update: Apr 10, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
