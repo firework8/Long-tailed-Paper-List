@@ -37,7 +37,6 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Transfer Knowledge from Head to Tail: Uncertainty Calibration under Long-tailed Distribution
 - Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need
 - Rethinking Image Super Resolution from Long-Tailed Distribution Learning Perspective
-- Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation
 - Balanced Product of Calibrated Experts for Long-Tailed Recognition
 - Exploring and Utilizing Pattern Imbalance
 - Understanding Imbalanced Semantic Segmentation Through Neural Collapse
