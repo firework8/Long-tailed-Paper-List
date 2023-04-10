@@ -32,12 +32,12 @@ We collect existing papers on long-tailed learning published in prominent confer
 - SuperDisco: Super-Class Discovery Improves Visual Recognition for the Long-Tail [[paper](https://arxiv.org/pdf/2304.00101.pdf)]
 - Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization [[paper](https://arxiv.org/pdf/2304.00212.pdf)]
 - No One Left Behind: Improving the Worst Categories in Long-Tailed Learning [[paper](https://arxiv.org/abs/2303.03630)]
+- Balanced Product of Calibrated Experts for Long-Tailed Recognition [[paper](https://arxiv.org/abs/2206.05260)]
 - Class-Conditional Sharpness-Aware Minimization for Deep Long-Tailed Recognition
 - Balancing Logit Variation for Long-tailed Semantic Segmentation
 - Transfer Knowledge from Head to Tail: Uncertainty Calibration under Long-tailed Distribution
 - Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need
 - Rethinking Image Super Resolution from Long-Tailed Distribution Learning Perspective
-- Balanced Product of Calibrated Experts for Long-Tailed Recognition
 - Exploring and Utilizing Pattern Imbalance
 - Understanding Imbalanced Semantic Segmentation Through Neural Collapse
 - RankMix: Data Augmentation for Weakly Supervised Learning of Classifying Whole Slide Images with Diverse Sizes and Imbalanced Categories
@@ -190,7 +190,6 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Throwing away data improves worst-class error in imbalanced classification [[paper](https://arxiv.org/abs/2205.11672)]
 - Long-tailed Recognition by Learning from Latent Categories [[paper](https://arxiv.org/pdf/2206.01010.pdf)]
 - EnergyMatch: Energy-based Pseudo-Labeling for Semi-Supervised Learning [[paper](https://arxiv.org/abs/2206.06359)]
-- Balanced Product of Experts for Long-Tailed Recognition [[paper](https://arxiv.org/abs/2206.05260)]
 - DBN-Mix: Training Dual Branch Network Using Bilateral Mixup Augmentation for Long-Tailed Visual Recognition [[paper](https://arxiv.org/abs/2207.02173)]
 - Two-Stage Fine-Tuning: A Novel Strategy for Learning ClassImbalanced Data [[paper](https://arxiv.org/abs/2207.10858)]
 - Teacher Guided Training: An Efficient Framework for Knowledge Transfer [[paper](https://arxiv.org/abs/2208.06825)]
