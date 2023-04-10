@@ -40,7 +40,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need
 - Rethinking Image Super Resolution from Long-Tailed Distribution Learning Perspective
 - Exploring and Utilizing Pattern Imbalance
-
+- Unbalanced Optimal Transport: A Unified Framework for Object Detection
 - RankMix: Data Augmentation for Weakly Supervised Learning of Classifying Whole Slide Images with Diverse Sizes and Imbalanced Categories
 
 **ICLR** 
