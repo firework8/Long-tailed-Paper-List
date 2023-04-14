@@ -24,6 +24,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Probabilistic Debiasing of Scene Graphs [[paper](https://arxiv.org/pdf/2211.06444.pdf)] [[code](https://github.com/bashirulazam/within-triplet-debias)]
 - Global and Local Mixture Consistency Cumulative Learning for Long-tailed Visual Recognitions [[paper](https://www.researchgate.net/profile/Yun-Yang-33/publication/368956093_Global_and_Local_Mixture_Consistency_Cumulative_Learning_for_Long-tailed_Visual_Recognitions/links/640190d10d98a97717d32903/Global-and-Local-Mixture-Consistency-Cumulative-Learning-for-Long-tailed-Visual-Recognitions.pdf)] [[code](https://github.com/ynu-yangpeng/GLMC)]
 - VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud [[paper](https://arxiv.org/pdf/2303.14408.pdf)] [[code](https://github.com/wz7in/CVPR2023-VLSAT)]
+- NoisyTwins: Class-Consistent and Diverse Image Generation through StyleGANs [[paper](https://arxiv.org/pdf/2304.05866.pdf)] [[code](https://github.com/val-iisc/NoisyTwins)]
 - Use Your Head: Improving Long-Tail Video Recognition [[paper](https://arxiv.org/pdf/2304.01143.pdf)] [[code](https://github.com/tobyperrett/lmr-release)]
 - Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation [[paper](https://arxiv.org/pdf/2304.01279.pdf)] [[code](https://github.com/jinyan-06/SHIKE)]
 - Understanding Imbalanced Semantic Segmentation Through Neural Collapse [[paper](https://arxiv.org/pdf/2301.01100.pdf)] [[code](https://github.com/NeuralCollapseApplications/Semantic-Segmentation)]
@@ -35,8 +36,9 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization [[paper](https://arxiv.org/pdf/2304.00212.pdf)]
 - No One Left Behind: Improving the Worst Categories in Long-Tailed Learning [[paper](https://arxiv.org/abs/2303.03630)]
 - Balanced Product of Calibrated Experts for Long-Tailed Recognition [[paper](https://arxiv.org/abs/2206.05260)]
+- Improving Image Recognition by Retrieving from Web-Scale Image-Text Data [[paper](https://arxiv.org/pdf/2304.05173.pdf)]
+- Transfer Knowledge from Head to Tail: Uncertainty Calibration under Long-tailed Distribution [[paper](https://arxiv.org/pdf/2304.06537.pdf)]
 - Balancing Logit Variation for Long-tailed Semantic Segmentation
-- Transfer Knowledge from Head to Tail: Uncertainty Calibration under Long-tailed Distribution
 - Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need
 - Rethinking Image Super Resolution from Long-Tailed Distribution Learning Perspective
 - Exploring and Utilizing Pattern Imbalance
@@ -69,6 +71,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Pseudo Labels Regularization for Imbalanced Partial-Label Learning [[paper](https://arxiv.org/abs/2303.03946)]
 - Long-tailed Classification from a Bayesian-decision-theory Perspective [[paper](https://arxiv.org/abs/2303.06075)]
 - Fairness Improves Learning from Noisily Labeled Long-Tailed Data [[paper](https://arxiv.org/abs/2303.12291)]
+- Propheter: Prophetic Teacher Guided Long-Tailed Distribution Learning [[paper](https://arxiv.org/abs/2304.04135)]
 
 
 ### 2022
