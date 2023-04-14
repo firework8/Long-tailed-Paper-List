@@ -28,13 +28,13 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation [[paper](https://arxiv.org/pdf/2304.01279.pdf)] [[code](https://github.com/jinyan-06/SHIKE)]
 - Understanding Imbalanced Semantic Segmentation Through Neural Collapse [[paper](https://arxiv.org/pdf/2301.01100.pdf)] [[code](https://github.com/NeuralCollapseApplications/Semantic-Segmentation)]
 - FCC: Feature Clusters Compression for Long-Tailed Visual Recognition [[code](https://github.com/lijian16/FCC)]
+- Class-Conditional Sharpness-Aware Minimization for Deep Long-Tailed Recognition [[code](https://github.com/zzpustc/CC-SAM)]
 - Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification [[paper](https://arxiv.org/pdf/2303.12307.pdf)]
 - FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-tail Trajectory Prediction [[paper](https://arxiv.org/pdf/2303.16574.pdf)]
 - SuperDisco: Super-Class Discovery Improves Visual Recognition for the Long-Tail [[paper](https://arxiv.org/pdf/2304.00101.pdf)]
 - Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization [[paper](https://arxiv.org/pdf/2304.00212.pdf)]
 - No One Left Behind: Improving the Worst Categories in Long-Tailed Learning [[paper](https://arxiv.org/abs/2303.03630)]
 - Balanced Product of Calibrated Experts for Long-Tailed Recognition [[paper](https://arxiv.org/abs/2206.05260)]
-- Class-Conditional Sharpness-Aware Minimization for Deep Long-Tailed Recognition
 - Balancing Logit Variation for Long-tailed Semantic Segmentation
 - Transfer Knowledge from Head to Tail: Uncertainty Calibration under Long-tailed Distribution
 - Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need
@@ -410,6 +410,6 @@ With all the resources available on the github website, this paper list is compr
 - [Papers With Code: Long-tailed Learning](https://paperswithcode.com/task/long-tail-learning)
 
 
-## Last update: Apr 10, 2023
+## Last update: Apr 14, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
