@@ -66,6 +66,9 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition [[paper](https://arxiv.org/pdf/2211.13471.pdf)] [[code](https://github.com/wjun0830/MOVE)]
 - Long-tail Cross Modal Hashing [[paper](https://arxiv.org/pdf/2211.15162.pdf)]
 
+**IJCAI** 
+- Stochastic Feature Averaging for Learning with Long-Tailed Noisy Labels [[code](https://github.com/HotanLee/SFA)]
+
 **arXiv papers**
 - Integrating Local Real Data with Global Gradient Prototypes for Classifier Re-Balancing in Federated Long-Tailed Learning [[paper](https://arxiv.org/abs/2301.10394)]
 - Revisiting Long-tailed Image Classification: Survey and Benchmarks with New Evaluation Metrics [[paper](https://arxiv.org/abs/2302.01507)]
