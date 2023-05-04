@@ -193,8 +193,6 @@ We collect existing papers on long-tailed learning published in prominent confer
 - A Benchmark of Long-tailed Instance Segmentation with Noisy Labels [[paper](https://arxiv.org/abs/2211.13435)] [[code](https://github.com/GuanlinLee/Noisy-LVIS)]
 - Class Adaptive Network Calibration [[paper](https://arxiv.org/abs/2211.15088)] [[code](https://github.com/by-liu/CALS)]
 - VLG: General Video Recognition with Web Textual Knowledge [[paper](https://arxiv.org/abs/2212.01638)] [[code](https://github.com/MCG-NJU/VLG)]
-
-
 - GradTail: Learning Long-Tailed Data Using Gradient-based Sample Weighting [[paper](https://arxiv.org/abs/2201.05938)]
 - Balancing Domain Experts for Long-Tailed Camera-Trap Recognition [[paper](https://arxiv.org/abs/2202.07215)]
 - Long-Tailed Classification with Gradual Balanced Loss and Adaptive Feature Generation [[paper](https://arxiv.org/abs/2203.00452)]
