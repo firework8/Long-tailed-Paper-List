@@ -30,6 +30,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Understanding Imbalanced Semantic Segmentation Through Neural Collapse [[paper](https://arxiv.org/pdf/2301.01100.pdf)] [[code](https://github.com/NeuralCollapseApplications/Semantic-Segmentation)]
 - FCC: Feature Clusters Compression for Long-Tailed Visual Recognition [[code](https://github.com/lijian16/FCC)]
 - Class-Conditional Sharpness-Aware Minimization for Deep Long-Tailed Recognition [[code](https://github.com/zzpustc/CC-SAM)]
+- Class-Balancing Diffusion Models [[paper](https://arxiv.org/pdf/2305.00562.pdf)]
 - Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification [[paper](https://arxiv.org/pdf/2303.12307.pdf)]
 - FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-tail Trajectory Prediction [[paper](https://arxiv.org/pdf/2303.16574.pdf)]
 - SuperDisco: Super-Class Discovery Improves Visual Recognition for the Long-Tail [[paper](https://arxiv.org/pdf/2304.00101.pdf)]
@@ -45,6 +46,9 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Unbalanced Optimal Transport: A Unified Framework for Object Detection
 - RankMix: Data Augmentation for Weakly Supervised Learning of Classifying Whole Slide Images with Diverse Sizes and Imbalanced Categories
 
+**ICML** 
+- Long-Tailed Recognition by Mutual Information Maximization between Latent Features and Ground-Truth Labels [[paper](https://arxiv.org/pdf/2305.01160.pdf)]
+
 **ICLR** 
 - LPT: Long-tailed Prompt Tuning for Image Classification [[paper](https://arxiv.org/pdf/2210.01033.pdf)] [[code](https://github.com/DongSky/LPT)]
 - Long-Tailed Partial Label Learning via Dynamic Rebalancing [[paper](https://arxiv.org/pdf/2302.05080.pdf)] [[code](https://github.com/MediaBrain-SJTU/RECORDS-LTPLL)]
@@ -56,6 +60,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - InPL: Pseudo-labeling the Inliers First for Imbalanced Semi-supervised Learning [[paper](https://arxiv.org/pdf/2303.07269.pdf)]
 - Pushing the Accuracy-Group Robustness Frontier with Introspective Self-play [[paper](https://arxiv.org/pdf/2302.05807.pdf)]
 - Imbalanced Semi-supervised Learning with Bias Adaptive Classifier [[paper](https://openreview.net/pdf?id=rVM8wD2G7Dy)]
+- Decoupled Training for Long-Tailed Classification With Stochastic Representations [[paper](https://arxiv.org/pdf/2304.09426.pdf)]
 
 **AAAI** 
 - Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition [[paper](https://arxiv.org/pdf/2211.13471.pdf)] [[code](https://github.com/wjun0830/MOVE)]
@@ -72,6 +77,10 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Long-tailed Classification from a Bayesian-decision-theory Perspective [[paper](https://arxiv.org/abs/2303.06075)]
 - Fairness Improves Learning from Noisily Labeled Long-Tailed Data [[paper](https://arxiv.org/abs/2303.12291)]
 - Propheter: Prophetic Teacher Guided Long-Tailed Distribution Learning [[paper](https://arxiv.org/abs/2304.04135)]
+- CoMaL: Conditional Maximum Likelihood Approach to Self-supervised Domain Adaptation in Long-tail Semantic Segmentation [[paper](https://arxiv.org/abs/2304.07372)]
+- Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels [[paper](https://arxiv.org/abs/2304.10539)]
+- It is all about where you start: Text-to-image generation with seed selection [[paper](https://arxiv.org/abs/2304.14530)]
+- FCA: Taming Long-tailed Federated Medical Image Classification by Classifier Anchoring [[paper](https://arxiv.org/abs/2305.00738)]
 
 
 ### 2022
@@ -255,18 +264,18 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Learning of visual relations: The devil is in the tails [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Desai_Learning_of_Visual_Relations_The_Devil_Is_in_the_Tails_ICCV_2021_paper.pdf)]
 - Procrustean Training for Imbalanced Deep Learning [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ye_Procrustean_Training_for_Imbalanced_Deep_Learning_ICCV_2021_paper.pdf)]
 
+**ICML** 
+- Image-Level or Object-Level? A Tale of Two Resampling Strategies for Long-Tailed Detection [[paper](https://arxiv.org/pdf/2104.05702.pdf)] [[code](https://github.com/NVlabs/RIO)]
+- Self-Damaging Contrastive Learning [[paper](https://arxiv.org/pdf/2106.02990.pdf)] [[code](https://github.com/VITA-Group/SDCLR)]
+- Delving into deep imbalanced regression [[paper](https://arxiv.org/pdf/2102.09554.pdf)] [[code](https://github.com/YyzHarry/imbalanced-regression)]
+- Disentangling Sampling and Labeling Bias for Learning in Large-Output Spaces [[paper](http://proceedings.mlr.press/v139/rawat21a/rawat21a.pdf)]
+
 **ICLR** 
 - Long-tail learning via logit adjustment [[paper](https://openreview.net/pdf?id=37nvvqkCo5)] [[code](https://github.com/google-research/google-research/tree/master/logit_adjustment)]
 - Long-tailed recognition by routing diverse distribution-aware experts [[paper](https://openreview.net/pdf?id=D9I3drBz4UC)] [[code](https://github.com/frank-xwang/RIDE-LongTailRecognition)]
 - Heteroskedastic and imbalanced deep learning with adaptive regularization [[paper](https://arxiv.org/pdf/2006.15766.pdf)] [[code](https://github.com/kaidic/HAR)]
 - Is label smoothing truly incompatible with knowledge distillation: An empirical study [[paper](https://arxiv.org/pdf/2104.00676.pdf)] [[code](http://zhiqiangshen.com/projects/LS_and_KD/index.html)]
 - Exploring balanced feature spaces for representation learning [[paper](https://openreview.net/pdf?id=OqtLIabPTit)]
-
-**ICML** 
-- Image-Level or Object-Level? A Tale of Two Resampling Strategies for Long-Tailed Detection [[paper](https://arxiv.org/pdf/2104.05702.pdf)] [[code](https://github.com/NVlabs/RIO)]
-- Self-Damaging Contrastive Learning [[paper](https://arxiv.org/pdf/2106.02990.pdf)] [[code](https://github.com/VITA-Group/SDCLR)]
-- Delving into deep imbalanced regression [[paper](https://arxiv.org/pdf/2102.09554.pdf)] [[code](https://github.com/YyzHarry/imbalanced-regression)]
-- Disentangling Sampling and Labeling Bias for Learning in Large-Output Spaces [[paper](http://proceedings.mlr.press/v139/rawat21a/rawat21a.pdf)]
 
 **NeurIPS**
 - Improving contrastive learning on imbalanced seed data via open-world sampling [[paper](https://proceedings.neurips.cc/paper/2021/file/2f37d10131f2a483a8dd005b3d14b0d9-Paper.pdf)] [[code](https://github.com/VITA-Group/MAK)]
