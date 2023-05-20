@@ -71,6 +71,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Stochastic Feature Averaging for Learning with Long-Tailed Noisy Labels [[code](https://github.com/HotanLee/SFA)]
 
 **arXiv papers**
+- LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition [[paper](https://arxiv.org/abs/2305.04536)] [[code](https://github.com/richard-peng-xia/LMPT)]
 - Integrating Local Real Data with Global Gradient Prototypes for Classifier Re-Balancing in Federated Long-Tailed Learning [[paper](https://arxiv.org/abs/2301.10394)]
 - Revisiting Long-tailed Image Classification: Survey and Benchmarks with New Evaluation Metrics [[paper](https://arxiv.org/abs/2302.01507)]
 - Learning Prototype Classifiers for Long-Tailed Recognition [[paper](https://arxiv.org/abs/2302.00491)]
@@ -85,6 +86,14 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels [[paper](https://arxiv.org/abs/2304.10539)]
 - It is all about where you start: Text-to-image generation with seed selection [[paper](https://arxiv.org/abs/2304.14530)]
 - FCA: Taming Long-tailed Federated Medical Image Classification by Classifier Anchoring [[paper](https://arxiv.org/abs/2305.00738)]
+- Towards Effective Collaborative Learning in Long-Tailed Recognition [[paper](https://arxiv.org/abs/2305.03378)]
+- Data Efficient Training with Imbalanced Label Sample Distribution for Fashion Detection [[paper](https://arxiv.org/abs/2305.04379)]
+- DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration [[paper](https://arxiv.org/abs/2305.04517)]
+- Dynamically Conservative Self-Driving Planner for Long-Tail Cases [[paper](https://arxiv.org/abs/2305.07497)]
+- Instance-Aware Repeat Factor Sampling for Long-Tailed Object Detection [[paper](https://arxiv.org/abs/2305.08069)]
+- Characterizing Long-Tail Categories on Graphs [[paper](https://arxiv.org/abs/2305.09938)]
+- Infinite Class Mixup [[paper](https://arxiv.org/abs/2305.10293)]
+- Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition [[paper](https://arxiv.org/abs/2305.10648)]
 
 
 ### 2022
