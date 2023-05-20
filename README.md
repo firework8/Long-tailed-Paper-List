@@ -48,6 +48,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 
 **ICML** 
 - Long-Tailed Recognition by Mutual Information Maximization between Latent Features and Ground-Truth Labels [[paper](https://arxiv.org/pdf/2305.01160.pdf)] [[code](https://github.com/bluecdm/Long-tailed-recognition)]
+- Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition [[paper](https://proceedings.mlr.press/v162/wang22aq/wang22aq.pdf)] [[code](https://github.com/amazon-science/long-tailed-ood-detection)]
 
 **ICLR** 
 - LPT: Long-tailed Prompt Tuning for Image Classification [[paper](https://arxiv.org/pdf/2210.01033.pdf)] [[code](https://github.com/DongSky/LPT)]
