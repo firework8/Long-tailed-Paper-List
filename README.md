@@ -19,32 +19,32 @@ We collect existing papers on long-tailed learning published in prominent confer
 ### 2023
 
 **CVPR** 
-- Learning Imbalanced Data with Vision Transformers [[paper](https://arxiv.org/pdf/2212.02015.pdf)] [[code](https://github.com/XuZhengzhuo/LiVT)]
-- DiGeo: Discriminative Geometry-Aware Learning for Generalized Few-Shot Object Detection [[paper](https://arxiv.org/pdf/2303.09674.pdf)] [[code](https://github.com/Phoenix-V/DiGeo)]
-- Probabilistic Debiasing of Scene Graphs [[paper](https://arxiv.org/pdf/2211.06444.pdf)] [[code](https://github.com/bashirulazam/within-triplet-debias)]
-- Global and Local Mixture Consistency Cumulative Learning for Long-tailed Visual Recognitions [[paper](https://www.researchgate.net/profile/Yun-Yang-33/publication/368956093_Global_and_Local_Mixture_Consistency_Cumulative_Learning_for_Long-tailed_Visual_Recognitions/links/640190d10d98a97717d32903/Global-and-Local-Mixture-Consistency-Cumulative-Learning-for-Long-tailed-Visual-Recognitions.pdf)] [[code](https://github.com/ynu-yangpeng/GLMC)]
-- VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud [[paper](https://arxiv.org/pdf/2303.14408.pdf)] [[code](https://github.com/wz7in/CVPR2023-VLSAT)]
-- NoisyTwins: Class-Consistent and Diverse Image Generation through StyleGANs [[paper](https://arxiv.org/pdf/2304.05866.pdf)] [[code](https://github.com/val-iisc/NoisyTwins)]
-- Use Your Head: Improving Long-Tail Video Recognition [[paper](https://arxiv.org/pdf/2304.01143.pdf)] [[code](https://github.com/tobyperrett/lmr-release)]
-- Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation [[paper](https://arxiv.org/pdf/2304.01279.pdf)] [[code](https://github.com/jinyan-06/SHIKE)]
-- Understanding Imbalanced Semantic Segmentation Through Neural Collapse [[paper](https://arxiv.org/pdf/2301.01100.pdf)] [[code](https://github.com/NeuralCollapseApplications/Semantic-Segmentation)]
-- FCC: Feature Clusters Compression for Long-Tailed Visual Recognition [[code](https://github.com/lijian16/FCC)]
-- Class-Conditional Sharpness-Aware Minimization for Deep Long-Tailed Recognition [[code](https://github.com/zzpustc/CC-SAM)]
-- Class-Balancing Diffusion Models [[paper](https://arxiv.org/pdf/2305.00562.pdf)]
-- Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification [[paper](https://arxiv.org/pdf/2303.12307.pdf)]
-- FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-tail Trajectory Prediction [[paper](https://arxiv.org/pdf/2303.16574.pdf)]
-- SuperDisco: Super-Class Discovery Improves Visual Recognition for the Long-Tail [[paper](https://arxiv.org/pdf/2304.00101.pdf)]
-- Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization [[paper](https://arxiv.org/pdf/2304.00212.pdf)]
-- No One Left Behind: Improving the Worst Categories in Long-Tailed Learning [[paper](https://arxiv.org/abs/2303.03630)]
-- Balanced Product of Calibrated Experts for Long-Tailed Recognition [[paper](https://arxiv.org/abs/2206.05260)]
-- Improving Image Recognition by Retrieving from Web-Scale Image-Text Data [[paper](https://arxiv.org/pdf/2304.05173.pdf)]
-- Transfer Knowledge from Head to Tail: Uncertainty Calibration under Long-tailed Distribution [[paper](https://arxiv.org/pdf/2304.06537.pdf)]
-- Balancing Logit Variation for Long-tailed Semantic Segmentation
-- Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need
-- Rethinking Image Super Resolution from Long-Tailed Distribution Learning Perspective
-- Exploring and Utilizing Pattern Imbalance
-- Unbalanced Optimal Transport: A Unified Framework for Object Detection
-- RankMix: Data Augmentation for Weakly Supervised Learning of Classifying Whole Slide Images with Diverse Sizes and Imbalanced Categories
+- Learning Imbalanced Data with Vision Transformers [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Imbalanced_Data_With_Vision_Transformers_CVPR_2023_paper.pdf)] [[code](https://github.com/XuZhengzhuo/LiVT)]
+- DiGeo: Discriminative Geometry-Aware Learning for Generalized Few-Shot Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_DiGeo_Discriminative_Geometry-Aware_Learning_for_Generalized_Few-Shot_Object_Detection_CVPR_2023_paper.pdf)] [[code](https://github.com/Phoenix-V/DiGeo)]
+- Probabilistic Debiasing of Scene Graphs [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Biswas_Probabilistic_Debiasing_of_Scene_Graphs_CVPR_2023_paper.pdf)] [[code](https://github.com/bashirulazam/within-triplet-debias)]
+- Global and Local Mixture Consistency Cumulative Learning for Long-tailed Visual Recognitions [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Global_and_Local_Mixture_Consistency_Cumulative_Learning_for_Long-Tailed_Visual_CVPR_2023_paper.pdf)] [[code](https://github.com/ynu-yangpeng/GLMC)]
+- VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_VL-SAT_Visual-Linguistic_Semantics_Assisted_Training_for_3D_Semantic_Scene_Graph_CVPR_2023_paper.pdf)] [[code](https://github.com/wz7in/CVPR2023-VLSAT)]
+- NoisyTwins: Class-Consistent and Diverse Image Generation through StyleGANs [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Rangwani_NoisyTwins_Class-Consistent_and_Diverse_Image_Generation_Through_StyleGANs_CVPR_2023_paper.pdf)] [[code](https://github.com/val-iisc/NoisyTwins)]
+- Use Your Head: Improving Long-Tail Video Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Perrett_Use_Your_Head_Improving_Long-Tail_Video_Recognition_CVPR_2023_paper.pdf)] [[code](https://github.com/tobyperrett/lmr-release)]
+- Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Long-Tailed_Visual_Recognition_via_Self-Heterogeneous_Integration_With_Knowledge_Excavation_CVPR_2023_paper.pdf)] [[code](https://github.com/jinyan-06/SHIKE)]
+- Understanding Imbalanced Semantic Segmentation Through Neural Collapse [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhong_Understanding_Imbalanced_Semantic_Segmentation_Through_Neural_Collapse_CVPR_2023_paper.pdf)] [[code](https://github.com/NeuralCollapseApplications/Semantic-Segmentation)]
+- FCC: Feature Clusters Compression for Long-Tailed Visual Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_FCC_Feature_Clusters_Compression_for_Long-Tailed_Visual_Recognition_CVPR_2023_paper.pdf)] [[code](https://github.com/lijian16/FCC)]
+- Class-Conditional Sharpness-Aware Minimization for Deep Long-Tailed Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Class-Conditional_Sharpness-Aware_Minimization_for_Deep_Long-Tailed_Recognition_CVPR_2023_paper.pdf)] [[code](https://github.com/zzpustc/CC-SAM)]
+- Class-Balancing Diffusion Models [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Qin_Class-Balancing_Diffusion_Models_CVPR_2023_paper.pdf)]
+- Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_Curvature-Balanced_Feature_Manifold_Learning_for_Long-Tailed_Classification_CVPR_2023_paper.pdf)]
+- FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-tail Trajectory Prediction [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_FEND_A_Future_Enhanced_Distribution-Aware_Contrastive_Learning_Framework_for_Long-Tail_CVPR_2023_paper.pdf)]
+- SuperDisco: Super-Class Discovery Improves Visual Recognition for the Long-Tail [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_SuperDisco_Super-Class_Discovery_Improves_Visual_Recognition_for_the_Long-Tail_CVPR_2023_paper.pdf)]
+- Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yuan_Devil_Is_in_the_Queries_Advancing_Mask_Transformers_for_Real-World_CVPR_2023_paper.pdf)]
+- No One Left Behind: Improving the Worst Categories in Long-Tailed Learning [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_No_One_Left_Behind_Improving_the_Worst_Categories_in_Long-Tailed_CVPR_2023_paper.pdf)]
+- Balanced Product of Calibrated Experts for Long-Tailed Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Aimar_Balanced_Product_of_Calibrated_Experts_for_Long-Tailed_Recognition_CVPR_2023_paper.pdf)]
+- Improving Image Recognition by Retrieving from Web-Scale Image-Text Data [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Iscen_Improving_Image_Recognition_by_Retrieving_From_Web-Scale_Image-Text_Data_CVPR_2023_paper.pdf)]
+- Transfer Knowledge from Head to Tail: Uncertainty Calibration under Long-tailed Distribution [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Transfer_Knowledge_From_Head_to_Tail_Uncertainty_Calibration_Under_Long-Tailed_CVPR_2023_paper.pdf)]
+- Balancing Logit Variation for Long-tailed Semantic Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Balancing_Logit_Variation_for_Long-Tailed_Semantic_Segmentation_CVPR_2023_paper.pdf)]
+- Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Towards_Realistic_Long-Tailed_Semi-Supervised_Learning_Consistency_Is_All_You_Need_CVPR_2023_paper.pdf)]
+- Rethinking Image Super Resolution from Long-Tailed Distribution Learning Perspective [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gou_Rethinking_Image_Super_Resolution_From_Long-Tailed_Distribution_Learning_Perspective_CVPR_2023_paper.pdf)]
+- Exploring and Utilizing Pattern Imbalance [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Mei_Exploring_and_Utilizing_Pattern_Imbalance_CVPR_2023_paper.pdf)]
+- Unbalanced Optimal Transport: A Unified Framework for Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/De_Plaen_Unbalanced_Optimal_Transport_A_Unified_Framework_for_Object_Detection_CVPR_2023_paper.pdf)]
+- RankMix: Data Augmentation for Weakly Supervised Learning of Classifying Whole Slide Images with Diverse Sizes and Imbalanced Categories [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_RankMix_Data_Augmentation_for_Weakly_Supervised_Learning_of_Classifying_Whole_CVPR_2023_paper.pdf)]
 
 **ICML** 
 - Long-Tailed Recognition by Mutual Information Maximization between Latent Features and Ground-Truth Labels [[paper](https://arxiv.org/pdf/2305.01160.pdf)] [[code](https://github.com/bluecdm/Long-tailed-recognition)]
@@ -423,6 +423,6 @@ With all the resources available on the github website, this paper list is compr
 - [Papers With Code: Long-tailed Learning](https://paperswithcode.com/task/long-tail-learning)
 
 
-## Last update: May 4, 2023
+## Last update: May 20, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
