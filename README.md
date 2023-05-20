@@ -69,6 +69,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 
 **IJCAI** 
 - Stochastic Feature Averaging for Learning with Long-Tailed Noisy Labels [[code](https://github.com/HotanLee/SFA)]
+- Learning Prototype Classifiers for Long-Tailed Recognition [[code](https://github.com/saurabhsharma1993/prototype-classifier-ltr)]
 
 **arXiv papers**
 - LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition [[paper](https://arxiv.org/abs/2305.04536)] [[code](https://github.com/richard-peng-xia/LMPT)]
