@@ -49,6 +49,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 **ICML** 
 - Long-Tailed Recognition by Mutual Information Maximization between Latent Features and Ground-Truth Labels [[paper](https://arxiv.org/pdf/2305.01160.pdf)] [[code](https://github.com/bluecdm/Long-tailed-recognition)]
 - Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition [[paper](https://proceedings.mlr.press/v162/wang22aq/wang22aq.pdf)] [[code](https://github.com/amazon-science/long-tailed-ood-detection)]
+- Not All Semantics are Created Equal: Contrastive Self-supervised Learning with Automatic Temperature Individualization [[paper](https://arxiv.org/pdf/2305.11965.pdf)]
 
 **ICLR** 
 - LPT: Long-tailed Prompt Tuning for Image Classification [[paper](https://arxiv.org/pdf/2210.01033.pdf)] [[code](https://github.com/DongSky/LPT)]
@@ -71,6 +72,9 @@ We collect existing papers on long-tailed learning published in prominent confer
 **IJCAI** 
 - Stochastic Feature Averaging for Learning with Long-Tailed Noisy Labels [[code](https://github.com/HotanLee/SFA)]
 - Learning Prototype Classifiers for Long-Tailed Recognition [[code](https://github.com/saurabhsharma1993/prototype-classifier-ltr)]
+
+**IJCV** 
+- Semi-Supervised and Long-Tailed Object Detection with CascadeMatch [[paper](https://arxiv.org/pdf/2305.14813.pdf)] [[code](https://github.com/yuhangzang/CascadeMatch)]
 
 **arXiv papers**
 - LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition [[paper](https://arxiv.org/abs/2305.04536)] [[code](https://github.com/richard-peng-xia/LMPT)]
@@ -97,6 +101,9 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Characterizing Long-Tail Categories on Graphs [[paper](https://arxiv.org/abs/2305.09938)]
 - Infinite Class Mixup [[paper](https://arxiv.org/abs/2305.10293)]
 - Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition [[paper](https://arxiv.org/abs/2305.10648)]
+- Boosting Long-tailed Object Detection via Step-wise Learning on Smooth-tail Data [[paper](https://arxiv.org/abs/2305.12833)]
+- BMB: Balanced Memory Bank for Imbalanced Semi-supervised Learning [[paper](https://arxiv.org/abs/2305.12912)]
+- A Simple and Effective Framework for Strict Zero-Shot Hierarchical Classification [[paper](https://arxiv.org/abs/2305.15282)]
 
 
 ### 2022
