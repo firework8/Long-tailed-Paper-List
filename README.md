@@ -8,7 +8,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 
 ## Survey
 
-- Deep long-tailed learning: A survey (**2021 arXiv paper**) [[paper](https://arxiv.org/abs/2110.04596)]
+- Deep long-tailed learning: A survey (**TPAMI 2023**) [[paper](https://arxiv.org/abs/2110.04596)]
 - A Survey on Long-tailed Visual Recognition (**IJCV 2022**) [[paper](https://arxiv.org/pdf/2205.13775.pdf)]
 - Long-tailed visual recognition with deep models: A methodological survey and evaluation (**Neurocomputing 2022**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222010062)]
 - A systematic study of the class imbalance problem in convolutional neural networks (**Neural networks 2018**) [[paper](https://arxiv.org/pdf/1710.05381.pdf)]
@@ -31,13 +31,13 @@ We collect existing papers on long-tailed learning published in prominent confer
 - FCC: Feature Clusters Compression for Long-Tailed Visual Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_FCC_Feature_Clusters_Compression_for_Long-Tailed_Visual_Recognition_CVPR_2023_paper.pdf)] [[code](https://github.com/lijian16/FCC)]
 - Class-Conditional Sharpness-Aware Minimization for Deep Long-Tailed Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Class-Conditional_Sharpness-Aware_Minimization_for_Deep_Long-Tailed_Recognition_CVPR_2023_paper.pdf)] [[code](https://github.com/zzpustc/CC-SAM)]
 - Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Towards_Realistic_Long-Tailed_Semi-Supervised_Learning_Consistency_Is_All_You_Need_CVPR_2023_paper.pdf)] [[code](https://github.com/Gank0078/ACR)]
+- Balanced Product of Calibrated Experts for Long-Tailed Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Aimar_Balanced_Product_of_Calibrated_Experts_for_Long-Tailed_Recognition_CVPR_2023_paper.pdf)] [[code](https://github.com/emasa/BalPoE-CalibratedLT)]
 - Class-Balancing Diffusion Models [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Qin_Class-Balancing_Diffusion_Models_CVPR_2023_paper.pdf)]
 - Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_Curvature-Balanced_Feature_Manifold_Learning_for_Long-Tailed_Classification_CVPR_2023_paper.pdf)]
 - FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-tail Trajectory Prediction [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_FEND_A_Future_Enhanced_Distribution-Aware_Contrastive_Learning_Framework_for_Long-Tail_CVPR_2023_paper.pdf)]
 - SuperDisco: Super-Class Discovery Improves Visual Recognition for the Long-Tail [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_SuperDisco_Super-Class_Discovery_Improves_Visual_Recognition_for_the_Long-Tail_CVPR_2023_paper.pdf)]
 - Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yuan_Devil_Is_in_the_Queries_Advancing_Mask_Transformers_for_Real-World_CVPR_2023_paper.pdf)]
 - No One Left Behind: Improving the Worst Categories in Long-Tailed Learning [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_No_One_Left_Behind_Improving_the_Worst_Categories_in_Long-Tailed_CVPR_2023_paper.pdf)]
-- Balanced Product of Calibrated Experts for Long-Tailed Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Aimar_Balanced_Product_of_Calibrated_Experts_for_Long-Tailed_Recognition_CVPR_2023_paper.pdf)]
 - Improving Image Recognition by Retrieving from Web-Scale Image-Text Data [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Iscen_Improving_Image_Recognition_by_Retrieving_From_Web-Scale_Image-Text_Data_CVPR_2023_paper.pdf)]
 - Transfer Knowledge from Head to Tail: Uncertainty Calibration under Long-tailed Distribution [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Transfer_Knowledge_From_Head_to_Tail_Uncertainty_Calibration_Under_Long-Tailed_CVPR_2023_paper.pdf)]
 - Balancing Logit Variation for Long-tailed Semantic Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Balancing_Logit_Variation_for_Long-Tailed_Semantic_Segmentation_CVPR_2023_paper.pdf)]
@@ -62,6 +62,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Pushing the Accuracy-Group Robustness Frontier with Introspective Self-play [[paper](https://arxiv.org/pdf/2302.05807.pdf)]
 - Imbalanced Semi-supervised Learning with Bias Adaptive Classifier [[paper](https://openreview.net/pdf?id=rVM8wD2G7Dy)]
 - Decoupled Training for Long-Tailed Classification With Stochastic Representations [[paper](https://arxiv.org/pdf/2304.09426.pdf)]
+- Adaptive Robust Evidential Optimization For Open Set Detection from Imbalanced Data [[paper](https://openreview.net/pdf?id=3yJ-hcJBqe)]
 
 **AAAI** 
 - Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition [[paper](https://arxiv.org/pdf/2211.13471.pdf)] [[code](https://github.com/wjun0830/MOVE)]
@@ -73,6 +74,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 
 **arXiv papers**
 - LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition [[paper](https://arxiv.org/abs/2305.04536)] [[code](https://github.com/richard-peng-xia/LMPT)]
+- Exploring Vision-Language Models for Imbalanced Learning [[paper](https://arxiv.org/abs/2304.01457)] [[code](https://github.com/Imbalance-VLM/Imbalance-VLM)]
 - Integrating Local Real Data with Global Gradient Prototypes for Classifier Re-Balancing in Federated Long-Tailed Learning [[paper](https://arxiv.org/abs/2301.10394)]
 - Revisiting Long-tailed Image Classification: Survey and Benchmarks with New Evaluation Metrics [[paper](https://arxiv.org/abs/2302.01507)]
 - Learning Prototype Classifiers for Long-Tailed Recognition [[paper](https://arxiv.org/abs/2302.00491)]
