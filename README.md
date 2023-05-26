@@ -11,7 +11,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Deep long-tailed learning: A survey (**TPAMI 2023**) [[paper](https://arxiv.org/abs/2110.04596)]
 - A Survey on Long-tailed Visual Recognition (**IJCV 2022**) [[paper](https://arxiv.org/pdf/2205.13775.pdf)]
 - Long-tailed visual recognition with deep models: A methodological survey and evaluation (**Neurocomputing 2022**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222010062)]
-- A systematic study of the class imbalance problem in convolutional neural networks (**Neural networks 2018**) [[paper](https://arxiv.org/pdf/1710.05381.pdf)]
+- A systematic study of the class imbalance problem in convolutional neural networks (**Neural Networks 2018**) [[paper](https://arxiv.org/pdf/1710.05381.pdf)]
 
 
 ## Papers
