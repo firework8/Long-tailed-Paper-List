@@ -32,6 +32,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Class-Conditional Sharpness-Aware Minimization for Deep Long-Tailed Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Class-Conditional_Sharpness-Aware_Minimization_for_Deep_Long-Tailed_Recognition_CVPR_2023_paper.pdf)] [[code](https://github.com/zzpustc/CC-SAM)]
 - Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Towards_Realistic_Long-Tailed_Semi-Supervised_Learning_Consistency_Is_All_You_Need_CVPR_2023_paper.pdf)] [[code](https://github.com/Gank0078/ACR)]
 - Balanced Product of Calibrated Experts for Long-Tailed Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Aimar_Balanced_Product_of_Calibrated_Experts_for_Long-Tailed_Recognition_CVPR_2023_paper.pdf)] [[code](https://github.com/emasa/BalPoE-CalibratedLT)]
+- Balancing Logit Variation for Long-tailed Semantic Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Balancing_Logit_Variation_for_Long-Tailed_Semantic_Segmentation_CVPR_2023_paper.pdf)] [[code](https://github.com/grantword8/BLV)]
 - Class-Balancing Diffusion Models [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Qin_Class-Balancing_Diffusion_Models_CVPR_2023_paper.pdf)]
 - Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_Curvature-Balanced_Feature_Manifold_Learning_for_Long-Tailed_Classification_CVPR_2023_paper.pdf)]
 - FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-tail Trajectory Prediction [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_FEND_A_Future_Enhanced_Distribution-Aware_Contrastive_Learning_Framework_for_Long-Tail_CVPR_2023_paper.pdf)]
@@ -40,7 +41,6 @@ We collect existing papers on long-tailed learning published in prominent confer
 - No One Left Behind: Improving the Worst Categories in Long-Tailed Learning [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_No_One_Left_Behind_Improving_the_Worst_Categories_in_Long-Tailed_CVPR_2023_paper.pdf)]
 - Improving Image Recognition by Retrieving from Web-Scale Image-Text Data [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Iscen_Improving_Image_Recognition_by_Retrieving_From_Web-Scale_Image-Text_Data_CVPR_2023_paper.pdf)]
 - Transfer Knowledge from Head to Tail: Uncertainty Calibration under Long-tailed Distribution [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Transfer_Knowledge_From_Head_to_Tail_Uncertainty_Calibration_Under_Long-Tailed_CVPR_2023_paper.pdf)]
-- Balancing Logit Variation for Long-tailed Semantic Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Balancing_Logit_Variation_for_Long-Tailed_Semantic_Segmentation_CVPR_2023_paper.pdf)]
 - Rethinking Image Super Resolution from Long-Tailed Distribution Learning Perspective [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gou_Rethinking_Image_Super_Resolution_From_Long-Tailed_Distribution_Learning_Perspective_CVPR_2023_paper.pdf)]
 - Exploring and Utilizing Pattern Imbalance [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Mei_Exploring_and_Utilizing_Pattern_Imbalance_CVPR_2023_paper.pdf)]
 - Unbalanced Optimal Transport: A Unified Framework for Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/De_Plaen_Unbalanced_Optimal_Transport_A_Unified_Framework_for_Object_Detection_CVPR_2023_paper.pdf)]
@@ -442,6 +442,6 @@ With all the resources available on the github website, this paper list is compr
 - [Papers With Code: Long-tailed Learning](https://paperswithcode.com/task/long-tail-learning)
 
 
-## Last update: May 26, 2023
+## Last update: Jul 4, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
