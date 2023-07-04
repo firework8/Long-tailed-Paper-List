@@ -430,9 +430,9 @@ We collect existing papers on long-tailed learning published in prominent confer
 With all the resources available on the github website, this paper list is comprehensive and recently updated.
 
 - [Vanint/Awesome-LongTailed-Learning](https://github.com/Vanint/Awesome-LongTailed-Learning)
-- [GZWQ/Awesome-Long-Tailed](https://github.com/GZWQ/Awesome-Long-Tailed)
-- [zzw-zwzhang/Awesome-of-Long-Tailed-Recognition](https://github.com/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition)
 - [Stomach-ache/awesome-long-tail-learning](https://github.com/Stomach-ache/awesome-long-tail-learning)
+- [zzw-zwzhang/Awesome-of-Long-Tailed-Recognition](https://github.com/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition)
+- [GZWQ/Awesome-Long-Tailed](https://github.com/GZWQ/Awesome-Long-Tailed)
 - [xialeiliu/Awesome-LongTailed-Recognition](https://github.com/xialeiliu/Awesome-LongTailed-Recognition)
 - [XuZhengzhuo/Long-tailed-Visual-Recognition-Paper-List](https://github.com/XuZhengzhuo/Long-tailed-Visual-Recognition-Paper-List)
 - [rahulvigneswaran/longtail-buzz](https://rahulvigneswaran.github.io/longtail-buzz/)
