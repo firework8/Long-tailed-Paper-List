@@ -79,6 +79,9 @@ We collect existing papers on long-tailed learning published in prominent confer
 **IJCV** 
 - Semi-Supervised and Long-Tailed Object Detection with CascadeMatch [[paper](https://arxiv.org/pdf/2305.14813.pdf)] [[code](https://github.com/yuhangzang/CascadeMatch)]
 
+**TIP** 
+- Co-Learning Meets Stitch-Up for Noisy Multi-label Visual Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10112637)]
+
 **arXiv papers**
 - LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition [[paper](https://arxiv.org/abs/2305.04536)] [[code](https://github.com/richard-peng-xia/LMPT)]
 - Exploring Vision-Language Models for Imbalanced Learning [[paper](https://arxiv.org/abs/2304.01457)] [[code](https://github.com/Imbalance-VLM/Imbalance-VLM)]
@@ -115,6 +118,8 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Fill-Up: Balancing Long-Tailed Data with Generative Models [[paper](https://arxiv.org/abs/2306.07200)]
 - Norm-guided latent space exploration for text-to-image generation [[paper](https://arxiv.org/abs/2306.08687)]
 - Can Continual Learning Improve Long-Tailed Recognition? Toward a Unified Framework [[paper](https://arxiv.org/abs/2306.13275)]
+- Subclass-balancing Contrastive Learning for Long-tailed Recognition [[paper](https://arxiv.org/abs/2306.15925)]
+- Long-Tailed Continual Learning For Visual Food Recognition [[paper](https://arxiv.org/abs/2307.00183)]
 
 
 ### 2022
