@@ -459,6 +459,6 @@ With all the resources available on the github website, this paper list is compr
 - [Papers With Code: Long-tailed Learning](https://paperswithcode.com/task/long-tail-learning)
 
 
-## Last update: Jul 4, 2023
+## Last update: Jul 5, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
