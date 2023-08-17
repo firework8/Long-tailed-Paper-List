@@ -19,8 +19,10 @@ We collect existing papers on long-tailed learning published in prominent confer
 
 **ICCV** 
 - Label-Noise Learning with Intrinsically Long-Tailed Data [[paper](https://arxiv.org/pdf/2208.09833.pdf)] [[code](https://github.com/Wakings/TABASCO)]
+- ImbSAM: A Closer Look at Sharpness-Aware Minimization in Class-Imbalanced Recognition [[paper](https://arxiv.org/pdf/2308.07815.pdf)] [[code](https://github.com/cool-xuan/Imbalanced_SAM)]
 
 **ACM MM** 
+- RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification [[paper](https://arxiv.org/pdf/2308.02335.pdf)]
 - Dual Dynamic Proxy Hashing Network for Long-tailed Image Retrieval [[code](https://github.com/jiangyan1027/DDPHN)]
 
 **CVPR** 
@@ -88,12 +90,17 @@ We collect existing papers on long-tailed learning published in prominent confer
 **TIP** 
 - Co-Learning Meets Stitch-Up for Noisy Multi-label Visual Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10112637)]
 
+**TMM** 
+- Balanced Classification: A Unified Framework for Long-Tailed Object Detection [[paper](https://arxiv.org/pdf/2308.02213.pdf)] [[code](https://github.com/Tianhao-Qi/BACL)]
+
 **arXiv papers**
 - LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition [[paper](https://arxiv.org/abs/2305.04536)] [[code](https://github.com/richard-peng-xia/LMPT)]
 - Exploring Vision-Language Models for Imbalanced Learning [[paper](https://arxiv.org/abs/2304.01457)] [[code](https://github.com/Imbalance-VLM/Imbalance-VLM)]
 - CDLT: A Dataset with Concept Drift and Long-Tailed Distribution for Fine-Grained Visual Categorization [[paper](https://arxiv.org/abs/2306.02346)] [[code](https://drive.google.com/drive/folders/1LuWyQq74ZRe1Zo-Nvg3U2gUB5NRqLbX3)]
 - LIVABLE: Exploring Long-Tailed Classification of Software Vulnerability Types [[paper](https://arxiv.org/abs/2306.06935)] [[code](https://github.com/LIVABLE01/LIVABLE)]
 - Feature Fusion from Head to Tail: an Extreme Augmenting Strategy for Long-Tailed Visual Recognition [[paper](https://arxiv.org/abs/2306.06963)] [[code](https://github.com/Keke921)]
+- HeroLT: Benchmarking Heterogeneous Long-Tailed Learning [[paper](https://arxiv.org/abs/2307.08235)] [[code](https://github.com/SSSKJ/HeroLT)]
+- Adversarial Training Over Long-Tailed Distribution [[paper](https://arxiv.org/abs/2307.10205)] [[code](https://github.com/GuanlinLee/REAT)]
 - Integrating Local Real Data with Global Gradient Prototypes for Classifier Re-Balancing in Federated Long-Tailed Learning [[paper](https://arxiv.org/abs/2301.10394)]
 - Revisiting Long-tailed Image Classification: Survey and Benchmarks with New Evaluation Metrics [[paper](https://arxiv.org/abs/2302.01507)]
 - Delving Deep into Simplicity Bias for Long-Tailed Image Recognition [[paper](https://arxiv.org/abs/2302.03264)]
@@ -126,6 +133,9 @@ We collect existing papers on long-tailed learning published in prominent confer
 - Can Continual Learning Improve Long-Tailed Recognition? Toward a Unified Framework [[paper](https://arxiv.org/abs/2306.13275)]
 - Subclass-balancing Contrastive Learning for Long-tailed Recognition [[paper](https://arxiv.org/abs/2306.15925)]
 - Long-Tailed Continual Learning For Visual Food Recognition [[paper](https://arxiv.org/abs/2307.00183)]
+- General vs. Long-Tailed Age Estimation: An Approach to Kill Two Birds with One Stone [[paper](https://arxiv.org/abs/2307.10129)]
+- MEDOE: A Multi-Expert Decoder and Output Ensemble Framework for Long-tailed Semantic Segmentation [[paper](https://arxiv.org/abs/2308.08213)]
+- Dual-Branch Temperature Scaling Calibration for Long-Tailed Recognition [[paper]([[paper](https://arxiv.org/abs/2308.08213)])]
 
 
 ### 2022
