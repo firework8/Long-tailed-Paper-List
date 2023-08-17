@@ -17,6 +17,12 @@ We collect existing papers on long-tailed learning published in prominent confer
 
 ### 2023
 
+**ICCV** 
+- Label-Noise Learning with Intrinsically Long-Tailed Data [[paper](https://arxiv.org/pdf/2208.09833.pdf)] [[code](https://github.com/Wakings/TABASCO)]
+
+**ACM MM** 
+- Dual Dynamic Proxy Hashing Network for Long-tailed Image Retrieval [[code](https://github.com/jiangyan1027/DDPHN)]
+
 **CVPR** 
 - Learning Imbalanced Data with Vision Transformers [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Imbalanced_Data_With_Vision_Transformers_CVPR_2023_paper.pdf)] [[code](https://github.com/XuZhengzhuo/LiVT)]
 - DiGeo: Discriminative Geometry-Aware Learning for Generalized Few-Shot Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_DiGeo_Discriminative_Geometry-Aware_Learning_for_Generalized_Few-Shot_Object_Detection_CVPR_2023_paper.pdf)] [[code](https://github.com/Phoenix-V/DiGeo)]
@@ -69,6 +75,7 @@ We collect existing papers on long-tailed learning published in prominent confer
 
 **AAAI** 
 - Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition [[paper](https://arxiv.org/pdf/2211.13471.pdf)] [[code](https://github.com/wjun0830/MOVE)]
+- MEID: Mixture-of-Experts with Internal Distillation for Long-Tailed Video Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25230)] [[code](https://github.com/abcdvzz/MEID)]
 - Long-tail Cross Modal Hashing [[paper](https://arxiv.org/pdf/2211.15162.pdf)]
 
 **IJCAI** 
@@ -458,6 +465,6 @@ With all the resources available on the github website, this paper list is compr
 - [Papers With Code: Long-tailed Learning](https://paperswithcode.com/task/long-tail-learning)
 
 
-## Last update: Jul 24, 2023
+## Last update: Aug 17, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
